@@ -1,5 +1,5 @@
 
-# Daily Intern Jobs in Legal%20and%20Compliance by Jobright.ai
+# Daily Intern Jobs in Legal and Compliance by Jobright.ai
 
 
 
@@ -179,8 +179,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Counsel](https://jobright-internal.com/jobs/info/66c91320afd1cdf31b06c375?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Virginia, United States | Hybrid | Aug 23 |
 | ↳ | **[Corporate Counsel](https://jobright-internal.com/jobs/info/66c91320afd1cdf31b06c374?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pennsylvania, United States | Hybrid | Aug 23 |
 | ↳ | **[Corporate Counsel](https://jobright-internal.com/jobs/info/66c91320afd1cdf31b06c37f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | West Virginia, United States | Hybrid | Aug 23 |
-| ↳ | **[Corporate Counsel](https://jobright-internal.com/jobs/info/66c91320afd1cdf31b06c380?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Missouri, United States | Hybrid | Aug 23 |
 | ↳ | **[Corporate Counsel](https://jobright-internal.com/jobs/info/66c91320afd1cdf31b06c378?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Iowa, United States | On Site | Aug 23 |
+| ↳ | **[Corporate Counsel](https://jobright-internal.com/jobs/info/66c91320afd1cdf31b06c380?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Missouri, United States | Hybrid | Aug 23 |
 | ↳ | **[Corporate Counsel](https://jobright-internal.com/jobs/info/66c91320afd1cdf31b06c377?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Michigan, United States | On Site | Aug 23 |
 | ↳ | **[Corporate Counsel](https://jobright-internal.com/jobs/info/66c91320afd1cdf31b06c37b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Delaware, United States | Hybrid | Aug 23 |
 | ↳ | **[Corporate Counsel](https://jobright-internal.com/jobs/info/66c91320afd1cdf31b06c379?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wisconsin, United States | On Site | Aug 23 |
@@ -240,9 +240,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c92010dcf747acf40fcb77?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Petersburg, FL | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c92010dcf747acf40fcb83?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c92010dcf747acf40fcb80?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Indianapolis, IN | On Site | Aug 23 |
+| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c92010dcf747acf40fcb7e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tampa, FL | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c92010dcf747acf40fcb7c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | El Paso, TX | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c92010dcf747acf40fcb7d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newport News, VA | On Site | Aug 23 |
-| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c92010dcf747acf40fcb7e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tampa, FL | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c92010dcf747acf40fcb7f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cleveland, OH | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c92010dcf747acf40fcb82?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Canton, OH | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c92010dcf747acf40fcb81?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | El Cenizo, TX | On Site | Aug 23 |
@@ -267,9 +267,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86100?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Metairie, LA | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86101?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbia, MD | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa860fd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Eastlake, OH | On Site | Aug 23 |
-| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa860fc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greenville, SC | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa860ff?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Aiken, SC | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa860fa?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Des Moines, IA | On Site | Aug 23 |
+| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa860fc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greenville, SC | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa860fe?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pearl River, MS | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa860f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kalamazoo, MI | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86102?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Port St Lucie, FL | On Site | Aug 23 |
@@ -292,8 +292,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86113?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Arlington, TX | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86114?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Florence, AL | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86115?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Bristol, TN | On Site | Aug 23 |
-| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86116?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Broken Arrow, OK | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86119?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Sandusky, OH | On Site | Aug 23 |
+| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86116?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Broken Arrow, OK | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86118?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Staunton, VA | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86117?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tyler, TX | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8611f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Flint, MI | On Site | Aug 23 |
@@ -304,9 +304,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86121?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Conway, AR | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8611e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Richardson, TX | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8611b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kokomo, IN | On Site | Aug 23 |
-| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86123?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86127?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Raleigh, NC | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8612a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Norfolk, VA | On Site | Aug 23 |
+| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86123?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86122?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phenix City, AL | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8612b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Morristown, TN | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86124?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Ocala, FL | On Site | Aug 23 |
@@ -320,8 +320,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86139?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Burton, MI | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86137?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbia, SC | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86130?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX | On Site | Aug 23 |
-| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86135?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Sioux City, IA | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86131?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pataskala, OH | On Site | Aug 23 |
+| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86135?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Sioux City, IA | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8612f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Topeka, KS | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8613a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tulsa, OK | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86132?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | On Site | Aug 23 |
@@ -351,18 +351,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86149?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Waterloo, IA | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86150?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hopewell, VA | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8614e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Beaumont, TX | On Site | Aug 23 |
-| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8614a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Grand Forks, ND | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8614d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Omaha, NE | On Site | Aug 23 |
+| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8614a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Grand Forks, ND | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86162?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charleston, IL | On Site | Aug 23 |
-| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8615e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Steubenville, OH | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8615b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Rochester, MN | On Site | Aug 23 |
+| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8615e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Steubenville, OH | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86156?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | High Point, NC | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86160?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irving, TX | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8615a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pueblo, CO | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86158?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Holland, MI | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8615c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hampton, VA | On Site | Aug 23 |
-| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86154?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Amarillo, TX | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86161?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alexandria, LA | On Site | Aug 23 |
+| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86154?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Amarillo, TX | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86153?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Waynesboro, VA | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86155?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86159?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Ann Arbor, MI | On Site | Aug 23 |
@@ -370,16 +370,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8615d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Roswell, GA | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86157?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Green Bay, WI | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86163?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | On Site | Aug 23 |
-| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86167?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Lincoln, IL | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86164?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Heidelberg, TX | On Site | Aug 23 |
+| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86167?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Lincoln, IL | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86165?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | North Dakota, United States | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86168?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Murfreesboro, TN | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86166?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fayetteville, AR | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86169?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Niles, OH | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8616c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Llano Grande, TX | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86170?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Anniston, AL | On Site | Aug 23 |
-| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8616e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Louis, MO | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8616b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jonesboro, AR | On Site | Aug 23 |
+| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8616e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Louis, MO | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa8616f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbia, MO | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86173?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Danville, VA | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c911bc8a4957f96fa86172?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Warren, OH | On Site | Aug 23 |
@@ -411,8 +411,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c92b44c96bc896c1f4d0c6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Eatonville, FL | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c92b44c96bc896c1f4d0c9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Decatur, AL | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c92b44c96bc896c1f4d0c8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Overland Park, KS | On Site | Aug 23 |
-| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c8ff0b8d7dc75c6c2fe047?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Granite City, IL | On Site | Aug 23 |
 | ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c8ff0b8d7dc75c6c2fe250?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Milwaukee, WI | On Site | Aug 23 |
+| ↳ | **[Legal Operations Associate](https://jobright-internal.com/jobs/info/66c8ff0b8d7dc75c6c2fe047?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Granite City, IL | On Site | Aug 23 |
 | **[American Family Ventures](http://amfamventures.com/)** | **[Property Field Claims Adjuster](https://jobright-internal.com/jobs/info/66c8f74449abd0586a40962e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Salem, OR | Hybrid | Aug 23 |
 | ↳ | **[Property Field Claims Adjuster](https://jobright-internal.com/jobs/info/66c8fa3624ed1b24d1f66cc8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Portland, OR | Hybrid | Aug 23 |
 | **[USAA](https://www.usaa.com)** | **[Legal Assistant BI/UM](https://jobright-internal.com/jobs/info/66c8f04a1522ccc6652d73ab?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wilmington, DE | Hybrid | Aug 23 |
@@ -496,9 +496,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst I, Fraud Strategy and Analytics](https://jobright-internal.com/jobs/info/66c87dd74754931184054777?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Louis, MO | Hybrid | Aug 22 |
 | ↳ | **[Analyst I, Fraud Strategy and Analytics](https://jobright-internal.com/jobs/info/66c87dd74754931184054776?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Richmond, VA | Hybrid | Aug 22 |
 | ↳ | **[Analyst I, Fraud Strategy and Analytics](https://jobright-internal.com/jobs/info/66c87dd74754931184054775?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charlotte, NC | Hybrid | Aug 22 |
+| ↳ | **[Analyst I, Fraud Strategy and Analytics](https://jobright-internal.com/jobs/info/66c87dd74754931184054773?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Portland, OR | Hybrid | Aug 22 |
 | ↳ | **[Analyst I, Fraud Strategy and Analytics](https://jobright-internal.com/jobs/info/66c87dd74754931184054774?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Philadelphia, PA | Hybrid | Aug 22 |
 | ↳ | **[Analyst I, Fraud Strategy and Analytics](https://jobright-internal.com/jobs/info/66c87dd74754931184054771?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boulder, CO | Hybrid | Aug 22 |
-| ↳ | **[Analyst I, Fraud Strategy and Analytics](https://jobright-internal.com/jobs/info/66c87dd74754931184054773?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Portland, OR | Hybrid | Aug 22 |
 | ↳ | **[Analyst I, Fraud Strategy and Analytics](https://jobright-internal.com/jobs/info/66c87dd74754931184054772?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boise, ID | Hybrid | Aug 22 |
 | ↳ | **[Analyst I, Fraud Strategy and Analytics](https://jobright-internal.com/jobs/info/66c87dd7475493118405477f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Sioux Falls, SD | Hybrid | Aug 22 |
 | ↳ | **[Analyst I, Fraud Strategy and Analytics](https://jobright-internal.com/jobs/info/66c87dd7475493118405477e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Nashville, TN | Hybrid | Aug 22 |
