@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GGRM Law Firm](https://ggrmlawfirm.com)** | **[Paralegal - Reno](https://jobright.ai/jobs/info/68c4b228fce86561b9288897?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Reno, NV | On Site | Oct 04 |
 | **[CBIZ](http://www.cbiz.com)** | **[IT Risk & Assurance Associate / Spring 2026](https://jobright.ai/jobs/info/68ce70e4dbd9fb154eddfa66?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, MO | On Site | Oct 04 |
 | **[Segal McCambridge](https://www.segalmccambridge.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cf1241fb49c96ca6ea59d6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | NYC Metro Area | Hybrid | Oct 04 |
 | **[CGI](https://www.cgi.com)** | **[Legal Assistant (Management Analyst I)](https://jobright.ai/jobs/info/68cd0014d11b445e0bee5ec9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA | On Site | Oct 04 |
@@ -138,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Trademark Paralegal](https://jobright.ai/jobs/info/68ce1aadb2a74e1837edf55b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | On Site | Oct 01 |
 | **[Foley & Lardner LLP](http://www.foley.com)** | **[Intellectual Property Project Assistant](https://jobright.ai/jobs/info/68d74fedf9dbe42bf62c1898?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Detroit, MI | Hybrid | Oct 01 |
 | **[Apple Bank](https://www.applebank.com)** | **[AFC KYC Analyst](https://jobright.ai/jobs/info/68cd2cb7e23def7af55b6816?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 01 |
+| **[FedEx Logistics](https://careers.fedex.com/logistics)** | **[Customs Trade Specialist](https://jobright.ai/jobs/info/68c2930903b99f6b34296899?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Springfield, MO | Hybrid | Oct 01 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Attorney Training Junior Coordinator](https://jobright.ai/jobs/info/6887e7964174df41e0fa175f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Hybrid | Oct 01 |
 | **[CoventBridge Group](http://www.coventbridge.com/)** | **[Claims Investigator - Full Time](https://jobright.ai/jobs/info/68c8c193983e6768bc5513f8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Jose, CA | Hybrid | Oct 01 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Trademark Paralegal](https://jobright.ai/jobs/info/68881d724174df41e0fa2f66?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 01 |
