@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Herrman & Herrman, PLLC: Personal Injury & Car Accident Law Firm](https://herrmanandherrman.com)** | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd1501299c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Hybrid | Oct 06 |
+| **[Financial Technology Partners / FT Partners](http://www.ftpartners.com)** | **[Jr. Paralegal - Litigation](https://jobright.ai/jobs/info/6844e8334e7900c6d8145746?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 06 |
+| **[Herrman & Herrman, PLLC: Personal Injury & Car Accident Law Firm](https://herrmanandherrman.com)** | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Remote | Oct 06 |
+| ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd1501299c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129d4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | McAllen, TX | On Site | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129b5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | On Site | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129a7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | McAllen, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129b1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Brownsville, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d189508c62e63bc7fcc5b9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Arlington, TX | Remote | Oct 06 |
+| ↳ | **[Attorney](https://jobright.ai/jobs/info/68d187acfa731f61692dfff0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Killeen, TX | Hybrid | Oct 06 |
 | **[Law Firms](https://www.marklitwak.com)** | **[Remote in Georgia / Plaintiff Labor And Employment Attorney](https://jobright.ai/jobs/info/68daddb007c157682e56eb90?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Georgia, United States | Remote | Oct 05 |
 | **[Aaronson Rappaport Feinstein & Deutsch, LLP](https://www.arfdlaw.com/)** | **[Asbestos Litigation Associate](https://jobright.ai/jobs/info/68982c48faa4e875e824ae61?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Hybrid | Oct 05 |
 | **[Children's Hospital Los Angeles (CHLA)](http://www.chla.org/)** | **[Compliance & Privacy Specialist / Office of Compliance & Privacy / Full-time / Days](https://jobright.ai/jobs/info/68a8f4a8d627244576e36934?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 05 |
@@ -76,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Assistant - June 2026](https://jobright.ai/jobs/info/68c4ad937279451d6a036bb8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | On Site | Oct 04 |
 | **[Wilshire Law Firm](https://wilshirelawfirm.com)** | **[Associate Attorney - Wage & Hour Class Action (Los Angeles)](https://jobright.ai/jobs/info/68524aadc350e152d1e0bbcd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 04 |
 | **[GGRM Law Firm](https://ggrmlawfirm.com)** | **[Paralegal - Reno](https://jobright.ai/jobs/info/68c4b228fce86561b9288897?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Reno, NV | On Site | Oct 04 |
+| **[Progressive Insurance](https://www.progressive.com)** | **[Legal Assistant - Insurance Defense](https://jobright.ai/jobs/info/68c4d7f2fce86561b9289dab?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Hybrid | Oct 04 |
 | **[Kobre & Kim](https://kobrekim.com/)** | **[Analyst (Litigation Support) - January 2026](https://jobright.ai/jobs/info/68cd97eab2a74e1837ed96a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Progressive Insurance](https://www.progressive.com)** | **[Legal Assistant - Insurance Defense](https://jobright.ai/jobs/info/68cd1849e23def7af55b51ba?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | On Site | Oct 04 |
 | **[CBIZ](http://www.cbiz.com)** | **[IT Risk & Assurance Associate / Spring 2026](https://jobright.ai/jobs/info/68ce70e4dbd9fb154eddfa66?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, MO | On Site | Oct 04 |
@@ -203,9 +207,4 @@ For a complete list, click the following sortable link below:
 | **[Legal Aid Chicago](https://www.legalaidchicago.org/)** | **[Staff Attorney - Public Benefits (HIV + Legal Project)](https://jobright.ai/jobs/info/68db9a62e19b9e63ba20fec9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Hybrid | Sep 30 |
 | **[NiSource](https://www.nisource.com/)** | **[Regulatory Analyst](https://jobright.ai/jobs/info/68c25d6033864f172f9c001d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbus, OH | On Site | Sep 30 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Paralegal - Investment Funds](https://jobright.ai/jobs/info/68c994b6f9c6ff7aedf1b2ce?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco Bay Area | Hybrid | Sep 29 |
-| **[State of Tennessee](https://www.tn.gov/)** | **[APS INVESTIGATIVE SPECIALIST 1* - 09302025-71584](https://jobright.ai/jobs/info/68db709834f2c406da6d815a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cumberland County, TN | Hybrid | Sep 29 |
-| ↳ | **[APS INVESTIGATIVE SPECIALIST 1* - 09302025-71584](https://jobright.ai/jobs/info/68db6f0a9f13662d20e4b3aa?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | White County, TN | Hybrid | Sep 29 |
-| **[North State Law](http://northstatelawfirm.com)** | **[Associate Litigation Attorney](https://jobright.ai/jobs/info/68db645c34f2c406da6d7808?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Raleigh, NC | On Site | Sep 29 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Claims Senior Auto Adjuster](https://jobright.ai/jobs/info/68db602de19b9e63ba20b64e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Costa Mesa, CA | On Site | Sep 29 |
-| ↳ | **[Claims Senior Auto Adjuster](https://jobright.ai/jobs/info/68db5c5f34f2c406da6d72f1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
