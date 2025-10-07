@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Modern Family Law](https://www.modernfamilylaw.com/)** | **[Remote Paralegal](https://jobright.ai/jobs/info/68c8777df9c6ff7aedf0f023?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Palo Alto, CA | Remote | Oct 07 |
+| **[Mizuho](https://www.mizuhogroup.com)** | **[Risk and Compliance Analyst / Associate (Japanese bilingual)](https://jobright.ai/jobs/info/68ad426ed627244576e4c6fb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Hybrid | Oct 07 |
 | **[Law Firms](https://www.marklitwak.com)** | **[(Remote) Mass Tort Attorney](https://jobright.ai/jobs/info/68c45a22e471ef3ce16d5625?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 06 |
 | ↳ | **[Fully Remote - Attorney (Employment and Labor Law)](https://jobright.ai/jobs/info/68b3bc361ade4306aa63bbc1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 06 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[2026 Campus Recruitment Operation Service Department Custody Associate](https://jobright.ai/jobs/info/68cfea2cdbd9fb154edebd70?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 06 |
@@ -133,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Legal Assistant (Management Analyst I)](https://jobright.ai/jobs/info/68cd0014d11b445e0bee5ec9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA | On Site | Oct 04 |
 | **[LOGS Legal Group](http://logs.com)** | **[Legal Assistant II](https://jobright.ai/jobs/info/68cc981216d00d2beeb21e90?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Vancouver, WA | On Site | Oct 04 |
 | **[Enova International](http://www.enova.com)** | **[Compliance Analyst - Complaints and Credit Reporting Disputes](https://jobright.ai/jobs/info/68c48f8d14bb275ce0194996?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Hybrid | Oct 04 |
+| **[CGI](https://www.cgi.com)** | **[Legal Assistant (Management Analyst I)](https://jobright.ai/jobs/info/68cf41c6846f0b04af67ff37?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | El Paso, TX | On Site | Oct 04 |
 | **[Modern Family Law](https://www.modernfamilylaw.com/)** | **[Remote Associate Attorney](https://jobright.ai/jobs/info/68c455f214bb275ce019283d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Remote | Oct 04 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Contract Specialist II](https://jobright.ai/jobs/info/68c9159ca0c52d598ea35512?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irvine, CA | On Site | Oct 04 |
 | **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Claims Advocate I](https://jobright.ai/jobs/info/6870733d01cc0956e7e81e6e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cedarhurst, NY | Hybrid | Oct 04 |
@@ -227,7 +230,6 @@ For a complete list, click the following sortable link below:
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Trademark Paralegal](https://jobright.ai/jobs/info/68cb7ff7ba798c1a501d0752?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Palo Alto, CA | On Site | Oct 01 |
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[Global Financial Crimes Analyst](https://jobright.ai/jobs/info/68a36ebd1ab5f8579e8a5836?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irving, TX | On Site | Oct 01 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Trademark Paralegal](https://jobright.ai/jobs/info/68882f624174df41e0fa33ff?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 01 |
-| **[Energy Impact Partners](http://energyimpactpartners.com)** | **[Analyst, Legal](https://jobright.ai/jobs/info/68c2924403b99f6b342965e2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 01 |
 | **[Gordon Rees Scully Mansukhani, LLP](http://www.grsm.com)** | **[Environmental/Toxic Tort Attorneys](https://jobright.ai/jobs/info/68d368398c62e63bc7fe0bd3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Carlsbad, CA | On Site | Oct 01 |
 | **[Ropes & Gray LLP](http://www.ropesgray.com/)** | **[Entry Corporate Paralegal](https://jobright.ai/jobs/info/68cd8442e23def7af55bb1d2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | On Site | Oct 01 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Paralegal](https://jobright.ai/jobs/info/68c0dd17702aa35207ab12fd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, CA | On Site | Oct 01 |
