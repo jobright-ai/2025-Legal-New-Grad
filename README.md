@@ -58,10 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Financial Technology Partners / FT Partners](http://www.ftpartners.com)** | **[Jr. Paralegal - Litigation](https://jobright.ai/jobs/info/6844e8334e7900c6d8145746?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 06 |
-| **[Herrman & Herrman, PLLC: Personal Injury & Car Accident Law Firm](https://herrmanandherrman.com)** | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129bf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | Hybrid | Oct 06 |
+| **[Herrman & Herrman, PLLC: Personal Injury & Car Accident Law Firm](https://herrmanandherrman.com)** | **[Attorney](https://jobright.ai/jobs/info/68d18936fa731f61692e01c9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Sugar Land, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18e5acece431f8b5852fe?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Louisiana, United States | Remote | Oct 06 |
+| ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129a3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | Hybrid | Oct 06 |
+| ↳ | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd1501299c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Hybrid | Oct 06 |
+| ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18a008c62e63bc7fcc690?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Braunfels, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129d4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | McAllen, TX | On Site | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18171cece431f8b5847ce?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Arizona, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129a4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX | On Site | Oct 06 |
@@ -209,5 +212,4 @@ For a complete list, click the following sortable link below:
 | **[OEC Group](http://oecgroup.com)** | **[Customs Entry Writer](https://jobright.ai/jobs/info/68c291128753a565272fb905?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cerritos, CA | Hybrid | Sep 30 |
 | **[Rex](https://rex.com/)** | **[Legal Operations Associate - Transactions](https://jobright.ai/jobs/info/68bdc370e57feb02eb0ac4a4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | Remote | Sep 30 |
 | **[East West Bank](http://eastwestbank.com)** | **[Fraud Analyst](https://jobright.ai/jobs/info/68a3cded37d3cc6b0d579bc0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | El Monte, CA | On Site | Sep 30 |
-| **[Legal Aid Chicago](https://www.legalaidchicago.org/)** | **[Staff Attorney - Public Benefits (HIV + Legal Project)](https://jobright.ai/jobs/info/68db9a62e19b9e63ba20fec9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Hybrid | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
