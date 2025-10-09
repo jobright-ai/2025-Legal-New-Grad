@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LSEG](http://www.lseg.com)** | **[Paralegal](https://jobright.ai/jobs/info/6876ca61ae2f413e4a5b3ac0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | On Site | Oct 09 |
+| **[Morgan & Morgan, P.A.](https://www.forthepeople.com)** | **[Litigation Paralegal in Training](https://jobright.ai/jobs/info/68cad4f1efdec76df36b5d73?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Louisville, KY | On Site | Oct 09 |
+| **[Kirkland & Ellis](https://www.kirkland.com/)** | **[Practice Assistant / Legal Secretary](https://jobright.ai/jobs/info/68b8964aea901c0d269f7c56?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
 | **[Albert and Mackenzie](https://albmac.com)** | **[Attorney (Remote - CA only)](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9d81?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Hybrid | Oct 08 |
 | **[Point72](https://www.point72.com)** | **[Canvas Compliance Analyst](https://jobright.ai/jobs/info/687c98982097a271a898b677?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 08 |
 | **[Kern County](https://www.kerncounty.com/)** | **[Deputy District Attorney I/II/III/IV/V](https://jobright.ai/jobs/info/68944a2aa9199876488e440e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Bakersfield Area | On Site | Oct 08 |
@@ -65,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Assistant City Solicitor or Deputy City Solicitor – Regulatory Law Unit – Airport Division](https://jobright.ai/jobs/info/68cb7b86ba798c1a501d0443?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Philadelphia, PA | On Site | Oct 08 |
 | **[Wilshire Law Firm](https://wilshirelawfirm.com)** | **[Legal Assistant - Personal Injury Pre-Litigation (On-Site)](https://jobright.ai/jobs/info/68a74fe6758f2e4ac3feaed1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68c8b3e8983e6768bc55094d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Walnut Creek, CA | Hybrid | Oct 07 |
+| **[Axiom](http://www.axiomlaw.com)** | **[Junior Employment Lawyer](https://jobright.ai/jobs/info/68cc88f6128dc347fd926413?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 07 |
 | **[Reliance Matrix](https://reliancematrix.com)** | **[Claims Examiner I - SSL](https://jobright.ai/jobs/info/68acb7e3d627244576e486a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Canandaigua, NY | Hybrid | Oct 07 |
 | **[Modern Family Law](https://www.modernfamilylaw.com/)** | **[Remote Paralegal](https://jobright.ai/jobs/info/68c87de495f5211cd2ce5e19?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Collins, CO | Remote | Oct 07 |
 | **[Newmark](https://www.nmrk.com)** | **[Escrow Assistant](https://jobright.ai/jobs/info/68c8aad6f9c6ff7aedf11584?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX | On Site | Oct 07 |
@@ -81,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Financial Technology Partners / FT Partners](http://www.ftpartners.com)** | **[Jr. Paralegal - Litigation](https://jobright.ai/jobs/info/6844e8334e7900c6d8145746?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 06 |
 | **[Herrman & Herrman, PLLC: Personal Injury & Car Accident Law Firm](https://herrmanandherrman.com)** | **[Attorney](https://jobright.ai/jobs/info/68d18c2a8c62e63bc7fcc964?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Odessa, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d183988c62e63bc7fcc2d2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tennessee, United States | Remote | Oct 06 |
-| ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129bf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18936fa731f61692e01c9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Sugar Land, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18e5acece431f8b5852fe?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Louisiana, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129ba?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | McKinney, TX | Hybrid | Oct 06 |
@@ -89,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129bb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Corpus Christi, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129dc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Corpus Christi, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d181a1cece431f8b584802?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kentucky, United States | Remote | Oct 06 |
+| ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129a3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129d6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX | Hybrid | Oct 06 |
-| ↳ | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18b65fa731f61692e044b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | South Dakota, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129a9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18669fa731f61692dfe1e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Mississippi, United States | Remote | Oct 06 |
@@ -107,6 +110,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | McAllen, TX | On Site | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129be?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18fe3cece431f8b5854f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hawaii, United States | Remote | Oct 06 |
+| ↳ | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d1819f8c62e63bc7fcc0c8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Oregon, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd1501299d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | On Site | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129d4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | McAllen, TX | On Site | Oct 06 |
@@ -134,7 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Aaronson Rappaport Feinstein & Deutsch, LLP](https://www.arfdlaw.com/)** | **[Asbestos Litigation Associate](https://jobright.ai/jobs/info/68982c48faa4e875e824ae61?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Hybrid | Oct 05 |
 | **[Children's Hospital Los Angeles (CHLA)](http://www.chla.org/)** | **[Compliance & Privacy Specialist / Office of Compliance & Privacy / Full-time / Days](https://jobright.ai/jobs/info/68a8f4a8d627244576e36934?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 05 |
 | **[Ropes & Gray LLP](http://www.ropesgray.com/)** | **[Legal Knowledge Management Coordinator](https://jobright.ai/jobs/info/68cd2172e23def7af55b5d2f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boston, MA | On Site | Oct 05 |
-| **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal](https://jobright.ai/jobs/info/68cd1fe7b2a74e1837ed2c04?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 05 |
+| **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal](https://jobright.ai/jobs/info/68c602b7c96a22563ecea4f6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | Hybrid | Oct 05 |
+| ↳ | **[Paralegal](https://jobright.ai/jobs/info/68cd1fe7b2a74e1837ed2c04?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 05 |
 | **[McDermott Will & Schulte](http://www.mwe.com/)** | **[Associate – Litigation (Supreme Court & Appellate) – Washington, D.C.](https://jobright.ai/jobs/info/68d00c2a846f0b04af687354?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | On Site | Oct 05 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal](https://jobright.ai/jobs/info/68ca7e6b06a34016008c9097?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Carlsbad, CA | On Site | Oct 05 |
 | **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Assistant - June 2026](https://jobright.ai/jobs/info/68c4ab6d31e5763f188e26c0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL | On Site | Oct 05 |
@@ -208,5 +213,4 @@ For a complete list, click the following sortable link below:
 | **[Gordon Rees Scully Mansukhani, LLP](http://www.grsm.com)** | **[Civil Litigation Attorneys](https://jobright.ai/jobs/info/68d396b4952b4a32e23d77bd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Carlsbad, CA | On Site | Oct 03 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Staff Attorney, Children's Legal Services](https://jobright.ai/jobs/info/68befacf5c5d5f14f46d29e2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA | On Site | Oct 02 |
 | **[University of California, Davis](http://ucdavis.edu)** | **[UCD Center for Labor and Community – Legal Fellow (LEGAL SVC ADVISOR 2)](https://jobright.ai/jobs/info/68d62cf0ebcef82ef5cf742f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Davis, CA | Hybrid | Oct 02 |
-| **[Gordon Rees Scully Mansukhani, LLP](http://www.grsm.com)** | **[Employment Attorneys](https://jobright.ai/jobs/info/68d36105f0d9af73038e1c1c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Carlsbad, CA | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
