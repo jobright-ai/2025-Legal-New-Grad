@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Albert and Mackenzie](https://albmac.com)** | **[Attorney (Remote - CA only)](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9d81?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Hybrid | Oct 08 |
+| **[Point72](https://www.point72.com)** | **[Canvas Compliance Analyst](https://jobright.ai/jobs/info/687c98982097a271a898b677?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 08 |
 | **[Commence](https://commence.ai/)** | **[Jurisdictional Analyst](https://jobright.ai/jobs/info/68ce48addbd9fb154eddd904?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Maryland, United States | On Site | Oct 08 |
-| **[Equitable](https://equitable.com/)** | **[Associate Compliance Examiner](https://jobright.ai/jobs/info/68cc54127342c7623ae62938?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Syracuse, NY | Hybrid | Oct 08 |
 | **[Atlas](https://www.oneatlas.com)** | **[Contract Administrator](https://jobright.ai/jobs/info/68ca3fe2f61c922772a75dc8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Assistant City Solicitor or Deputy City Solicitor – Regulatory Law Unit – Airport Division](https://jobright.ai/jobs/info/68cb7b86ba798c1a501d0443?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Philadelphia, PA | On Site | Oct 08 |
 | **[Wilshire Law Firm](https://wilshirelawfirm.com)** | **[Legal Assistant - Personal Injury Pre-Litigation (On-Site)](https://jobright.ai/jobs/info/68a74fe6758f2e4ac3feaed1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
@@ -211,5 +211,4 @@ For a complete list, click the following sortable link below:
 | **[JC Law](https://jamescrawfordlaw.com/)** | **[Family Law Legal Assistant](https://jobright.ai/jobs/info/68bd9bbdc4c5904ff6003f1a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Linthicum Heights, MD | On Site | Oct 02 |
 | **[Hawkins Parnell & Young, LLP](https://www.hpylaw.com)** | **[Defense Litigation Associate](https://jobright.ai/jobs/info/68cf2575dbd9fb154ede5526?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA | On Site | Oct 02 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Insurance Recovery Associate Attorney - Junior to Midlevel](https://jobright.ai/jobs/info/6696b2ecdffb57e9423a71a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Madison, WI | Hybrid | Oct 02 |
-| **[Greater New York Insurance Companies](https://www.gny.com/)** | **[Property Claims Examiner](https://jobright.ai/jobs/info/68d477ce77769e778f509392?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Remote | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
