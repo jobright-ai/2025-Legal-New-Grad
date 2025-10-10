@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HomeServices of America](http://www.homeservices.com/)** | **[Escrow Closer](https://jobright.ai/jobs/info/68c8bfd9983e6768bc5511a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Paul, MN | Hybrid | Oct 10 |
 | **[Higgs Fletcher & Mack](http://higgslaw.com)** | **[Associate Attorney (Family Law)](https://jobright.ai/jobs/info/68ca0a9dd4187c55157a5966?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | On Site | Oct 09 |
+| **[Element Fleet Management](https://www.elementfleet.com)** | **[Associate, Licensing- Title Management](https://jobright.ai/jobs/info/68cc855b7342c7623ae66189?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore County, MD | On Site | Oct 09 |
+| **[Ridgewood Savings Bank](https://www.ridgewoodbank.com/)** | **[Junior Fraud Investigative Analyst](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b4642?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cb3e6aefdec76df36ba7fb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | Hybrid | Oct 09 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Compliance Analyst, Medicare (Property & Casualty)](https://jobright.ai/jobs/info/68ae7928758f2e4ac3013d8b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | On Site | Oct 09 |
 | **[LSEG](http://www.lseg.com)** | **[Paralegal](https://jobright.ai/jobs/info/6876ca61ae2f413e4a5b3ac0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | On Site | Oct 09 |
@@ -205,6 +208,4 @@ For a complete list, click the following sortable link below:
 | **[Gibson Dunn](https://www.gibsondunn.com)** | **[Legal Pricing Coordinator (Analyst)](https://jobright.ai/jobs/info/68cfe4dfdbd9fb154edeb921?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX | On Site | Oct 03 |
 | **[Jacoby & Meyers Accident & Injury Lawyers](https://www.jacobyandmeyers.com)** | **[Pre-Litigation Associate Attorney - Denver, CO](https://jobright.ai/jobs/info/68a7b2bb758f2e4ac3fedc7e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | On Site | Oct 03 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[*Coordinator Contracts](https://jobright.ai/jobs/info/68c3668180e77b1fa6fc8e04?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Virginia Beach, VA | Hybrid | Oct 03 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Associate, Structured Credit (CLO) Banking](https://jobright.ai/jobs/info/68c8f2a395f5211cd2cec0a4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 03 |
-| **[Sidley Austin LLP](http://www.sidley.com)** | **[Legal Secretary](https://jobright.ai/jobs/info/68ce6082fb49c96ca6e9fca7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
