@@ -115,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Kimball, Tirey & St. John LLP](https://www.kts-law.com)** | **[Attorney](https://jobright.ai/jobs/info/68c8ca87f9c6ff7aedf12b0b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Concord, CA | Hybrid | Oct 07 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68ccf75477add66568abcd85?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 07 |
 | **[Gordon Rees Scully Mansukhani, LLP](http://www.grsm.com)** | **[Civil Litigation Attorneys](https://jobright.ai/jobs/info/68d38fd2952b4a32e23d70d9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Monterey, CA | On Site | Oct 07 |
+| **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68cd21461ad6b16f0289566c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | On Site | Oct 07 |
 | **[First American](http://www.firstam.com)** | **[Escrow Support Processor](https://jobright.ai/jobs/info/67e31bd88839d344212010e0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Concord, CA | On Site | Oct 07 |
 | **[Axiom](http://www.axiomlaw.com)** | **[Junior Employment Lawyer](https://jobright.ai/jobs/info/68cc88f6128dc347fd926413?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 07 |
 | **[Reliance Matrix](https://reliancematrix.com)** | **[Claims Examiner I - SSL](https://jobright.ai/jobs/info/68acb7e3d627244576e486a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Canandaigua, NY | Hybrid | Oct 07 |
@@ -194,6 +195,4 @@ For a complete list, click the following sortable link below:
 | **[Kobre & Kim](https://kobrekim.com/)** | **[Analyst (Litigation Support) - January 2026](https://jobright.ai/jobs/info/68c8f094f9c6ff7aedf14f98?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL | On Site | Oct 04 |
 | ↳ | **[Analyst (Litigation Support) - January 2026](https://jobright.ai/jobs/info/68c4abdb7279451d6a036962?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 04 |
 | ↳ | **[Analyst (Litigation Support) - June 2026](https://jobright.ai/jobs/info/68c4adfb7279451d6a036c87?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 04 |
-| ↳ | **[Litigation Assistant - June 2026](https://jobright.ai/jobs/info/68c4ad937279451d6a036bb8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | On Site | Oct 04 |
-| **[Wilshire Law Firm](https://wilshirelawfirm.com)** | **[Associate Attorney - Wage & Hour Class Action (San Diego)](https://jobright.ai/jobs/info/68cf5c0cdbd9fb154ede73cf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
