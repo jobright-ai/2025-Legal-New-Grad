@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ormco](http://www.ormco.com)** | **[Regulatory Affairs Associate](https://jobright.ai/jobs/info/68940032a9199876488e1b04?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Brea, CA | On Site | Oct 11 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Telluride Judicial Clerk I - 1.0FTE](https://jobright.ai/jobs/info/68daf46d6df7b8311bb148cd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Telluride, CO | On Site | Oct 10 |
 | **[JC Law](https://jamescrawfordlaw.com/)** | **[Family Law Legal Assistant](https://jobright.ai/jobs/info/68bd9bbdc4c5904ff6003f1a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Linthicum Heights, MD | On Site | Oct 10 |
 | ↳ | **[Associate Attorney](https://jobright.ai/jobs/info/68be0e08df5eec448f63da25?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fairfax, VA | Hybrid | Oct 10 |
@@ -74,7 +75,9 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Americas Delivery Center - Financial Crimes Compliance Analyst](https://jobright.ai/jobs/info/68ae5d14daf1431824ca28e1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cincinnati, OH | Hybrid | Oct 09 |
 | **[Wilshire Law Firm](https://wilshirelawfirm.com)** | **[Associate Attorney - Personal Injury Litigation](https://jobright.ai/jobs/info/68a703fd758f2e4ac3fe8fc0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
 | **[Apple Bank](https://www.applebank.com)** | **[AFC KYC Analyst](https://jobright.ai/jobs/info/68cd2cb7e23def7af55b6816?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 09 |
+| **[WSFS Bank](http://www.wsfsbank.com/)** | **[Corporate Trust Administrator I](https://jobright.ai/jobs/info/68af3f097bcb7608b3d2bd75?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wilmington, DE | On Site | Oct 09 |
 | **[Higgs Fletcher & Mack](http://higgslaw.com)** | **[Associate Attorney (Family Law)](https://jobright.ai/jobs/info/68ca0a9dd4187c55157a5966?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | On Site | Oct 09 |
+| **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Assistant - January 2026](https://jobright.ai/jobs/info/68cc40a57342c7623ae61a58?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 09 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Associate, Licensing- Title Management](https://jobright.ai/jobs/info/68cc855b7342c7623ae66189?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore County, MD | On Site | Oct 09 |
 | **[Ridgewood Savings Bank](https://www.ridgewoodbank.com/)** | **[Junior Fraud Investigative Analyst](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b4642?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cb3e6aefdec76df36ba7fb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | Hybrid | Oct 09 |
@@ -192,7 +195,4 @@ For a complete list, click the following sortable link below:
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal](https://jobright.ai/jobs/info/68ca7e6b06a34016008c9097?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Carlsbad, CA | On Site | Oct 05 |
 | **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Assistant - June 2026](https://jobright.ai/jobs/info/68c4ab6d31e5763f188e26c0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL | On Site | Oct 05 |
 | **[CAI](http://www.compaid.com)** | **[Case Review Analyst](https://jobright.ai/jobs/info/68c7c6a35c38e536d41a6e1a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, DE | On Site | Oct 05 |
-| **[Kobre & Kim](https://kobrekim.com/)** | **[Analyst (Litigation Support) - January 2026](https://jobright.ai/jobs/info/68c8f094f9c6ff7aedf14f98?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL | On Site | Oct 04 |
-| ↳ | **[Analyst (Litigation Support) - January 2026](https://jobright.ai/jobs/info/68c4abdb7279451d6a036962?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 04 |
-| ↳ | **[Analyst (Litigation Support) - June 2026](https://jobright.ai/jobs/info/68c4adfb7279451d6a036c87?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
