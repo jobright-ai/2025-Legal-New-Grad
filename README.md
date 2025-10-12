@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ormco](http://www.ormco.com)** | **[Regulatory Affairs Associate](https://jobright.ai/jobs/info/68940032a9199876488e1b04?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Brea, CA | On Site | Oct 11 |
+| **[Walmart](http://www.walmart.com)** | **[Asset Protection Associate](https://jobright.ai/jobs/info/68b274a3bc187f64e1bdbc7c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Nashville, NC | On Site | Oct 11 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Telluride Judicial Clerk I - 1.0FTE](https://jobright.ai/jobs/info/68daf46d6df7b8311bb148cd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Telluride, CO | On Site | Oct 10 |
 | **[JC Law](https://jamescrawfordlaw.com/)** | **[Family Law Legal Assistant](https://jobright.ai/jobs/info/68bd9bbdc4c5904ff6003f1a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Linthicum Heights, MD | On Site | Oct 10 |
 | ↳ | **[Associate Attorney](https://jobright.ai/jobs/info/68be0e08df5eec448f63da25?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fairfax, VA | Hybrid | Oct 10 |
@@ -194,5 +195,4 @@ For a complete list, click the following sortable link below:
 | **[McDermott Will & Schulte](http://www.mwe.com/)** | **[Associate – Litigation (Supreme Court & Appellate) – Washington, D.C.](https://jobright.ai/jobs/info/68d00c2a846f0b04af687354?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | On Site | Oct 05 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal](https://jobright.ai/jobs/info/68ca7e6b06a34016008c9097?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Carlsbad, CA | On Site | Oct 05 |
 | **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Assistant - June 2026](https://jobright.ai/jobs/info/68c4ab6d31e5763f188e26c0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL | On Site | Oct 05 |
-| **[CAI](http://www.compaid.com)** | **[Case Review Analyst](https://jobright.ai/jobs/info/68c7c6a35c38e536d41a6e1a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, DE | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
