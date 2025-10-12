@@ -91,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Allstate](http://www.allstate.com)** | **[Early Career Trial Attorney (Remote - New Jersey)](https://jobright.ai/jobs/info/68cbcc3eba798c1a501d556e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Jersey, United States | Remote | Oct 09 |
 | **[Carrington Holding Company, LLC](http://carringtonhc.com/)** | **[Escrow Administrator, I](https://jobright.ai/jobs/info/68ae6332daf1431824ca2b15?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Westfield, IN | Remote | Oct 09 |
 | **[Allstate](http://www.allstate.com)** | **[CAT Inside Adjuster Analyst II](https://jobright.ai/jobs/info/68cd800e1ad6b16f0289a581?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 09 |
+| **[Allstate](http://www.allstate.com)** | **[Trial Attorney (Remote, Northern Virginia)](https://jobright.ai/jobs/info/68cd787eb2a74e1837ed7380?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 08 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Compliance Analyst, Medicare (Property & Casualty)](https://jobright.ai/jobs/info/68ae79d0daf1431824ca35bc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT | On Site | Oct 08 |
 | **[Allstate](http://www.allstate.com)** | **[Trial Attorney (Hybrid, Connecticut)](https://jobright.ai/jobs/info/68ca278ff61c922772a736a4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Rocky Hill, CT | Hybrid | Oct 08 |
 | **[FedEx Logistics](https://careers.fedex.com/logistics)** | **[Customs Trade Agent](https://jobright.ai/jobs/info/68c289a88753a565272fa958?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Indianapolis, IN | On Site | Oct 08 |
@@ -128,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Abrams Fensterman, LLP](http://abramslaw.com)** | **[Matrimonial Attorney](https://jobright.ai/jobs/info/68ad11dfd627244576e4b03f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Lake Success, NY | On Site | Oct 07 |
 | **[Mizuho](https://www.mizuhogroup.com)** | **[Risk and Compliance Analyst / Associate (Japanese bilingual)](https://jobright.ai/jobs/info/68ad426ed627244576e4c6fb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Hybrid | Oct 07 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[APS INVESTIGATIVE SPECIALIST 1* - 09302025-71584](https://jobright.ai/jobs/info/68db709834f2c406da6d815a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cumberland County, TN | Hybrid | Oct 07 |
+| **[FedEx Logistics](https://careers.fedex.com/logistics)** | **[Customs Trade Specialist](https://jobright.ai/jobs/info/689e775579a9f9666254cf90?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Memphis, TN | On Site | Oct 06 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[APS INVESTIGATIVE SPECIALIST 1* - 09302025-71584](https://jobright.ai/jobs/info/68db6f0a9f13662d20e4b3aa?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | White County, TN | Hybrid | Oct 06 |
 | **[Law Firms](https://www.marklitwak.com)** | **[(Remote) Mass Tort Attorney](https://jobright.ai/jobs/info/68c45a22e471ef3ce16d5625?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 06 |
 | ↳ | **[Fully Remote - Attorney (Employment and Labor Law)](https://jobright.ai/jobs/info/68b3bc361ade4306aa63bbc1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 06 |
@@ -145,7 +147,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d181a1cece431f8b584802?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kentucky, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129a3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129d6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX | Hybrid | Oct 06 |
-| ↳ | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18b65fa731f61692e044b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | South Dakota, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129a9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18669fa731f61692dfe1e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Mississippi, United States | Remote | Oct 06 |
@@ -162,6 +163,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | McAllen, TX | On Site | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129be?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18fe3cece431f8b5854f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hawaii, United States | Remote | Oct 06 |
+| ↳ | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d1819f8c62e63bc7fcc0c8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Oregon, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd1501299d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | On Site | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129d4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | McAllen, TX | On Site | Oct 06 |
@@ -189,5 +191,4 @@ For a complete list, click the following sortable link below:
 | **[AIG](https://www.aig.com/)** | **[2026 - Early Career - Claims (Juris Doctor) Analyst - United States, New York (NY), Jersey City (NJ), & Atlanta (GA)](https://jobright.ai/jobs/info/68bff1cc8e65e77df55be595?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 05 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Trademark Paralegal](https://jobright.ai/jobs/info/68aa54c76acf96396f729ec1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 05 |
 | **[Aaronson Rappaport Feinstein & Deutsch, LLP](https://www.arfdlaw.com/)** | **[Asbestos Litigation Associate](https://jobright.ai/jobs/info/68982c48faa4e875e824ae61?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Hybrid | Oct 05 |
-| **[Children's Hospital Los Angeles (CHLA)](http://www.chla.org/)** | **[Compliance & Privacy Specialist / Office of Compliance & Privacy / Full-time / Days](https://jobright.ai/jobs/info/68a8f4a8d627244576e36934?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
