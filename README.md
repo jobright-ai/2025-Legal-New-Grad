@@ -145,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Mizuho](https://www.mizuhogroup.com)** | **[Risk and Compliance Analyst / Associate (Japanese bilingual)](https://jobright.ai/jobs/info/68ad426ed627244576e4c6fb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Hybrid | Oct 07 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[APS INVESTIGATIVE SPECIALIST 1* - 09302025-71584](https://jobright.ai/jobs/info/68db709834f2c406da6d815a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cumberland County, TN | Hybrid | Oct 07 |
 | **[FedEx Logistics](https://careers.fedex.com/logistics)** | **[Customs Trade Specialist](https://jobright.ai/jobs/info/689e775579a9f9666254cf90?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Memphis, TN | On Site | Oct 06 |
-| **[State of Tennessee](https://www.tn.gov/)** | **[APS INVESTIGATIVE SPECIALIST 1* - 09302025-71584](https://jobright.ai/jobs/info/68db6f0a9f13662d20e4b3aa?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | White County, TN | Hybrid | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
