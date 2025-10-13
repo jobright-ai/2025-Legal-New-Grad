@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SHEIN](https://careers.shein.com/)** | **[Paralegal, US Legal-LA, US](https://jobright.ai/jobs/info/68ca9fc0efdec76df36b4b1d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
 | **[Jacoby & Meyers Accident & Injury Lawyers](https://www.jacobyandmeyers.com)** | **[Pre-Litigation Associate Attorney - Remote](https://jobright.ai/jobs/info/67a061e7d0a6b0a426b4b3ac?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 12 |
 | **[Wilshire Law Firm](https://wilshirelawfirm.com)** | **[Associate Attorney - Wage & Hour Class Action (Torrance)](https://jobright.ai/jobs/info/68b23c82bc187f64e1bd9ffc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Torrance, CA | On Site | Oct 12 |
 | **[Pampered Chef](https://www.pamperedchef.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cdc0b1e23def7af55bec87?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Addison, IL | Hybrid | Oct 11 |
@@ -135,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Gordon Rees Scully Mansukhani, LLP](http://www.grsm.com)** | **[Civil Litigation Attorneys](https://jobright.ai/jobs/info/68d38fd2952b4a32e23d70d9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Monterey, CA | On Site | Oct 07 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68cd21461ad6b16f0289566c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | On Site | Oct 07 |
 | **[Axiom](http://www.axiomlaw.com)** | **[Junior Employment Lawyer](https://jobright.ai/jobs/info/68cc88f6128dc347fd926413?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 07 |
+| **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68cd1f89e23def7af55b59e8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irvine, CA | On Site | Oct 07 |
 | **[Reliance Matrix](https://reliancematrix.com)** | **[Claims Examiner I - SSL](https://jobright.ai/jobs/info/68acb7e3d627244576e486a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Canandaigua, NY | Hybrid | Oct 07 |
 | **[Newmark](https://www.nmrk.com)** | **[Escrow Assistant](https://jobright.ai/jobs/info/68c8aad6f9c6ff7aedf11584?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX | On Site | Oct 07 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Customs Entry Writer](https://jobright.ai/jobs/info/68d7a6987796a83635f099f0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Rolling Meadows, IL | On Site | Oct 07 |
@@ -143,6 +145,4 @@ For a complete list, click the following sortable link below:
 | **[State of Tennessee](https://www.tn.gov/)** | **[APS INVESTIGATIVE SPECIALIST 1* - 09302025-71584](https://jobright.ai/jobs/info/68db709834f2c406da6d815a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cumberland County, TN | Hybrid | Oct 07 |
 | **[FedEx Logistics](https://careers.fedex.com/logistics)** | **[Customs Trade Specialist](https://jobright.ai/jobs/info/689e775579a9f9666254cf90?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Memphis, TN | On Site | Oct 06 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[APS INVESTIGATIVE SPECIALIST 1* - 09302025-71584](https://jobright.ai/jobs/info/68db6f0a9f13662d20e4b3aa?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | White County, TN | Hybrid | Oct 06 |
-| **[Law Firms](https://www.marklitwak.com)** | **[(Remote) Mass Tort Attorney](https://jobright.ai/jobs/info/68c45a22e471ef3ce16d5625?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 06 |
-| ↳ | **[Fully Remote - Attorney (Employment and Labor Law)](https://jobright.ai/jobs/info/68b3bc361ade4306aa63bbc1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
