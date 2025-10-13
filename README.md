@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacoby & Meyers Accident & Injury Lawyers](https://www.jacobyandmeyers.com)** | **[Pre-Litigation Associate Attorney - Remote](https://jobright.ai/jobs/info/67a061e7d0a6b0a426b4b3ac?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 12 |
 | **[Wilshire Law Firm](https://wilshirelawfirm.com)** | **[Associate Attorney - Wage & Hour Class Action (Torrance)](https://jobright.ai/jobs/info/68b23c82bc187f64e1bd9ffc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Torrance, CA | On Site | Oct 12 |
 | **[Pampered Chef](https://www.pamperedchef.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cdc0b1e23def7af55bec87?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Addison, IL | Hybrid | Oct 11 |
 | **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Assistant District Attorney Spring 2026](https://jobright.ai/jobs/info/68cd9e2eb2a74e1837ed9c79?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Bronx, NY | On Site | Oct 11 |
@@ -146,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[Law Firms](https://www.marklitwak.com)** | **[(Remote) Mass Tort Attorney](https://jobright.ai/jobs/info/68c45a22e471ef3ce16d5625?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 06 |
 | ↳ | **[Fully Remote - Attorney (Employment and Labor Law)](https://jobright.ai/jobs/info/68b3bc361ade4306aa63bbc1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 06 |
 | **[Chenega Corporation](https://www.chenega.com/)** | **[SBA Compliance Coordinator](https://jobright.ai/jobs/info/68c704d3c96a22563ecf0385?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Anchorage, AK | On Site | Oct 06 |
-| **[Frankl Kominsky Injury Lawyers](http://www.fklegal.com)** | **[Associate Attorney](https://jobright.ai/jobs/info/68d2afee17554c2d9eee8dda?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boynton Beach, FL | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
