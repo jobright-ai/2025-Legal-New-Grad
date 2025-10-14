@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allstate](http://www.allstate.com)** | **[Early Career Trial Attorney (Remote - Orlando, FL)](https://jobright.ai/jobs/info/68d1abf9a54edb3bf3e14c51?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami-FTL Area | Remote | Oct 14 |
 | **[South Carolina Legal Services](https://www.sclegal.org)** | **[Attorney](https://jobright.ai/jobs/info/68cc528b128dc347fd922994?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Conway, SC | On Site | Oct 13 |
 | **[Law Firms](https://www.marklitwak.com)** | **[(Remote) Mass Tort Attorney](https://jobright.ai/jobs/info/68c45a22e471ef3ce16d5625?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 13 |
 | ↳ | **[Remote - Attorney](https://jobright.ai/jobs/info/68bb97b25f383274918707f8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 13 |
@@ -116,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[A+E Global Media](https://www.aetv.com/)** | **[Coordinator, Digital Operations & Anti-Piracy](https://jobright.ai/jobs/info/68c9ceed95f5211cd2cf4abd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 08 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Compliance Analyst, Medicare (Property & Casualty)](https://jobright.ai/jobs/info/68ae79d0daf1431824ca35bc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT | On Site | Oct 08 |
 | **[Allstate](http://www.allstate.com)** | **[Trial Attorney (Hybrid, Connecticut)](https://jobright.ai/jobs/info/68ca278ff61c922772a736a4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Rocky Hill, CT | Hybrid | Oct 08 |
-| **[FedEx Logistics](https://careers.fedex.com/logistics)** | **[Customs Trade Agent](https://jobright.ai/jobs/info/68c289a88753a565272fa958?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Indianapolis, IN | On Site | Oct 08 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Field Property Claims Adjuster](https://jobright.ai/jobs/info/68d770fa61a175619f8cda0b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Minneapolis, MN | On Site | Oct 08 |
 | **[FalconX](http://www.falconx.io)** | **[Compliance Onboarding Associate](https://jobright.ai/jobs/info/68adf682daf1431824c9f4a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[FedEx Logistics](https://careers.fedex.com/logistics)** | **[Customs Trade Agent](https://jobright.ai/jobs/info/68c7d92d369c3763c743c62a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Memphis, TN | On Site | Oct 08 |
@@ -140,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Clyde & Co](https://www.clydeco.com)** | **[Paralegal - Aviation Liability (Product Liability and Warranty Litigation)](https://jobright.ai/jobs/info/68c88e56983e6768bc54efaf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 07 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal](https://jobright.ai/jobs/info/68cd289de23def7af55b628c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | On Site | Oct 07 |
 | **[Kimball, Tirey & St. John LLP](https://www.kts-law.com)** | **[Attorney](https://jobright.ai/jobs/info/68c8ca87f9c6ff7aedf12b0b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Concord, CA | Hybrid | Oct 07 |
-| **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68ccf75477add66568abcd85?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
