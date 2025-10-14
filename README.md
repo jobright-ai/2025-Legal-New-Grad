@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Allstate](http://www.allstate.com)** | **[Early Career Trial Attorney (Remote - Orlando, FL)](https://jobright.ai/jobs/info/68d1abf9a54edb3bf3e14c51?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami-FTL Area | Remote | Oct 14 |
+| **[Mayer Brown](http://www.mayerbrown.com/)** | **[Paralegal](https://jobright.ai/jobs/info/688a8d259f961617fe21c887?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 13 |
 | **[South Carolina Legal Services](https://www.sclegal.org)** | **[Attorney](https://jobright.ai/jobs/info/68cc528b128dc347fd922994?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Conway, SC | On Site | Oct 13 |
 | **[Law Firms](https://www.marklitwak.com)** | **[(Remote) Mass Tort Attorney](https://jobright.ai/jobs/info/68c45a22e471ef3ce16d5625?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 13 |
 | ↳ | **[Remote - Attorney](https://jobright.ai/jobs/info/68bb97b25f383274918707f8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 13 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Claims Representative, Subrogation](https://jobright.ai/jobs/info/68d00be3846f0b04af6872f5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Parsippany, NJ | On Site | Oct 13 |
 | **[SHEIN](https://careers.shein.com/)** | **[Paralegal, US Legal-LA, US](https://jobright.ai/jobs/info/68ca9fc0efdec76df36b4b1d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
 | **[ByteDance](http://bytedance.com)** | **[Risk Control Business Partner Graduate (Risk Control) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf0058fb49c96ca6ea4f68?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Jose, CA | On Site | Oct 12 |
+| **[Gordon Rees Scully Mansukhani, LLP](http://www.grsm.com)** | **[Commercial Litigation Attorneys](https://jobright.ai/jobs/info/68d4afa2fcd3367e8df16d01?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
 | **[Jacoby & Meyers Accident & Injury Lawyers](https://www.jacobyandmeyers.com)** | **[Pre-Litigation Associate Attorney - Remote](https://jobright.ai/jobs/info/67a061e7d0a6b0a426b4b3ac?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 12 |
 | **[Wilshire Law Firm](https://wilshirelawfirm.com)** | **[Associate Attorney - Wage & Hour Class Action (Torrance)](https://jobright.ai/jobs/info/68b23c82bc187f64e1bd9ffc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Torrance, CA | On Site | Oct 12 |
 | **[Pampered Chef](https://www.pamperedchef.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cdc0b1e23def7af55bec87?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Addison, IL | Hybrid | Oct 11 |
@@ -139,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68c8bb2cf9c6ff7aedf1218f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Carlsbad, CA | Hybrid | Oct 07 |
 | **[Clyde & Co](https://www.clydeco.com)** | **[Paralegal - Aviation Liability (Product Liability and Warranty Litigation)](https://jobright.ai/jobs/info/68c88e56983e6768bc54efaf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 07 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal](https://jobright.ai/jobs/info/68cd289de23def7af55b628c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | On Site | Oct 07 |
-| **[Kimball, Tirey & St. John LLP](https://www.kts-law.com)** | **[Attorney](https://jobright.ai/jobs/info/68c8ca87f9c6ff7aedf12b0b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Concord, CA | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
