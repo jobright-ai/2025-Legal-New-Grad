@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Law Firms](https://www.marklitwak.com)** | **[(Remote) Mass Tort Attorney](https://jobright.ai/jobs/info/68c45a22e471ef3ce16d5625?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 13 |
+| **[Segal McCambridge](https://www.segalmccambridge.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cf1241fb49c96ca6ea59d6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | NYC Metro Area | Hybrid | Oct 13 |
+| **[Shook, Hardy & Bacon L.L.P.](http://www.shb.com)** | **[Legal Administrative Assistant](https://jobright.ai/jobs/info/68ce6cc1dbd9fb154eddf88e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT | On Site | Oct 13 |
 | **[SHEIN](https://careers.shein.com/)** | **[Paralegal, US Legal-LA, US](https://jobright.ai/jobs/info/68ca9fc0efdec76df36b4b1d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
 | **[Jacoby & Meyers Accident & Injury Lawyers](https://www.jacobyandmeyers.com)** | **[Pre-Litigation Associate Attorney - Remote](https://jobright.ai/jobs/info/67a061e7d0a6b0a426b4b3ac?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 12 |
 | **[Wilshire Law Firm](https://wilshirelawfirm.com)** | **[Associate Attorney - Wage & Hour Class Action (Torrance)](https://jobright.ai/jobs/info/68b23c82bc187f64e1bd9ffc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Torrance, CA | On Site | Oct 12 |
@@ -144,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[Abrams Fensterman, LLP](http://abramslaw.com)** | **[Matrimonial Attorney](https://jobright.ai/jobs/info/68ad11dfd627244576e4b03f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Lake Success, NY | On Site | Oct 07 |
 | **[Mizuho](https://www.mizuhogroup.com)** | **[Risk and Compliance Analyst / Associate (Japanese bilingual)](https://jobright.ai/jobs/info/68ad426ed627244576e4c6fb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Hybrid | Oct 07 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[APS INVESTIGATIVE SPECIALIST 1* - 09302025-71584](https://jobright.ai/jobs/info/68db709834f2c406da6d815a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cumberland County, TN | Hybrid | Oct 07 |
-| **[FedEx Logistics](https://careers.fedex.com/logistics)** | **[Customs Trade Specialist](https://jobright.ai/jobs/info/689e775579a9f9666254cf90?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Memphis, TN | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
