@@ -143,7 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68ccf75477add66568abcd85?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 07 |
 | **[Gordon Rees Scully Mansukhani, LLP](http://www.grsm.com)** | **[Civil Litigation Attorneys](https://jobright.ai/jobs/info/68d38fd2952b4a32e23d70d9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Monterey, CA | On Site | Oct 07 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68cd21461ad6b16f0289566c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | On Site | Oct 07 |
-| **[Axiom](http://www.axiomlaw.com)** | **[Junior Employment Lawyer](https://jobright.ai/jobs/info/68cc88f6128dc347fd926413?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 07 |
-| **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68cd1f89e23def7af55b59e8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irvine, CA | On Site | Oct 07 |
-| **[Reliance Matrix](https://reliancematrix.com)** | **[Claims Examiner I - SSL](https://jobright.ai/jobs/info/68acb7e3d627244576e486a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Canandaigua, NY | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
