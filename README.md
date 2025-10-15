@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Law Firms](https://www.marklitwak.com)** | **[Remote in Georgia / Plaintiff Labor And Employment Attorney](https://jobright.ai/jobs/info/68daddb007c157682e56eb90?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Georgia, United States | Remote | Oct 14 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Insurance Recovery Associate Attorney - Junior to Midlevel](https://jobright.ai/jobs/info/6696b0356ff37b6a8706eb3f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
 | **[Bighorn Law](https://bighornlaw.com)** | **[Litigation Paralegal](https://jobright.ai/jobs/info/68d1bbe38c62e63bc7fcf38d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 14 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Attorney I - II](https://jobright.ai/jobs/info/685a0539eb7d70052484bded?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ | On Site | Oct 14 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Segal McCambridge](https://www.segalmccambridge.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cf1241fb49c96ca6ea59d6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | NYC Metro Area | Hybrid | Oct 13 |
 | **[Shook, Hardy & Bacon L.L.P.](http://www.shb.com)** | **[Legal Administrative Assistant](https://jobright.ai/jobs/info/68ce6cc1dbd9fb154eddf88e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT | On Site | Oct 13 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Claims Representative, Subrogation](https://jobright.ai/jobs/info/68d00be3846f0b04af6872f5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Parsippany, NJ | On Site | Oct 13 |
+| **[Morrison Foerster](http://www.mofo.com)** | **[Entry Level National Security Paralegal](https://jobright.ai/jobs/info/68b66363bc187f64e1be99ea?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 12 |
 | **[SHEIN](https://careers.shein.com/)** | **[Paralegal, US Legal-LA, US](https://jobright.ai/jobs/info/68ca9fc0efdec76df36b4b1d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
 | **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Analyst (Paralegal)](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e806f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Jose, CA | Hybrid | Oct 12 |
 | **[ByteDance](http://bytedance.com)** | **[Risk Control Business Partner Graduate (Risk Control) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf0058fb49c96ca6ea4f68?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Jose, CA | On Site | Oct 12 |
@@ -113,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Kern County](https://www.kerncounty.com/)** | **[Child Support Attorney I/II/III/IV](https://jobright.ai/jobs/info/6859b5e232ac186303138ad4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Bakersfield, CA | On Site | Oct 09 |
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cb3e6aefdec76df36ba7fb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | Hybrid | Oct 09 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Workers Compensation Defense Attorney I or II](https://jobright.ai/jobs/info/689223964c7e851b90ad35eb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 09 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Compliance Analyst, Medicare (Property & Casualty)](https://jobright.ai/jobs/info/68ae7928758f2e4ac3013d8b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | On Site | Oct 09 |
 | **[LSEG](http://www.lseg.com)** | **[Paralegal](https://jobright.ai/jobs/info/6876ca61ae2f413e4a5b3ac0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | On Site | Oct 09 |
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Legal Administrative Assistant](https://jobright.ai/jobs/info/68ccf46a77add66568abc78a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | On Site | Oct 09 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Compliance Administrator](https://jobright.ai/jobs/info/68cd1433e23def7af55b4f2f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Jersey, United States | On Site | Oct 09 |
