@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perkins Coie](http://www.perkinscoie.com)** | **[Insurance Recovery Associate Attorney - Junior to Midlevel](https://jobright.ai/jobs/info/6696b0356ff37b6a8706eb3f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
 | **[Bighorn Law](https://bighornlaw.com)** | **[Litigation Paralegal](https://jobright.ai/jobs/info/68d1bbe38c62e63bc7fcf38d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 14 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Attorney I - II](https://jobright.ai/jobs/info/685a0539eb7d70052484bded?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ | On Site | Oct 14 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Contract Compliance Coordinator](https://jobright.ai/jobs/info/68d1f34a8c62e63bc7fd1954?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Port Arthur, TX | On Site | Oct 14 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Shook, Hardy & Bacon L.L.P.](http://www.shb.com)** | **[Legal Administrative Assistant](https://jobright.ai/jobs/info/68ce6cc1dbd9fb154eddf88e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT | On Site | Oct 13 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Claims Representative, Subrogation](https://jobright.ai/jobs/info/68d00be3846f0b04af6872f5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Parsippany, NJ | On Site | Oct 13 |
 | **[SHEIN](https://careers.shein.com/)** | **[Paralegal, US Legal-LA, US](https://jobright.ai/jobs/info/68ca9fc0efdec76df36b4b1d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
+| **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Analyst (Paralegal)](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e806f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Jose, CA | Hybrid | Oct 12 |
 | **[ByteDance](http://bytedance.com)** | **[Risk Control Business Partner Graduate (Risk Control) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf0058fb49c96ca6ea4f68?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Jose, CA | On Site | Oct 12 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal - Commercial/Business Litigation](https://jobright.ai/jobs/info/68cc2fe216d00d2beeb1b394?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irvine, CA | On Site | Oct 12 |
 | **[Everest](https://www.everestglobal.com/)** | **[Senior Claims Specialist - Management Liability](https://jobright.ai/jobs/info/68985e6f5574fd6bc0c793a6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Hybrid | Oct 12 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Wilshire Law Firm](https://wilshirelawfirm.com)** | **[Associate Attorney - Personal Injury Litigation](https://jobright.ai/jobs/info/68a703fd758f2e4ac3fe8fc0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
 | **[Apple Bank](https://www.applebank.com)** | **[AFC KYC Analyst](https://jobright.ai/jobs/info/68cd2cb7e23def7af55b6816?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Attorney](https://jobright.ai/jobs/info/68cd92ed1ad6b16f0289b848?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 09 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Compliance Analyst, Medicare (Property & Casualty)](https://jobright.ai/jobs/info/68ae6db9758f2e4ac3013715?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | On Site | Oct 09 |
 | **[Higgs Fletcher & Mack](http://higgslaw.com)** | **[Associate Attorney (Family Law)](https://jobright.ai/jobs/info/68ca0a9dd4187c55157a5966?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | On Site | Oct 09 |
 | **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Assistant - January 2026](https://jobright.ai/jobs/info/68cc40a57342c7623ae61a58?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 09 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Associate, Licensing- Title Management](https://jobright.ai/jobs/info/68cc855b7342c7623ae66189?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore County, MD | On Site | Oct 09 |
@@ -132,6 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Albert and Mackenzie](https://albmac.com)** | **[Attorney (Remote - CA only)](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9d81?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Hybrid | Oct 08 |
 | **[Point72](https://www.point72.com)** | **[Canvas Compliance Analyst](https://jobright.ai/jobs/info/687c98982097a271a898b677?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 08 |
 | **[Fenwick & West](http://fenwick.com)** | **[Litigation Administrative Assistant](https://jobright.ai/jobs/info/68aeccf303c5f15c2fd8bb25?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Silicon Valley, CA | Hybrid | Oct 08 |
-| **[Kern County](https://www.kerncounty.com/)** | **[Deputy District Attorney I/II/III/IV/V](https://jobright.ai/jobs/info/68944a2aa9199876488e440e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Bakersfield Area | On Site | Oct 08 |
-| **[Commence](https://commence.ai/)** | **[Jurisdictional Analyst](https://jobright.ai/jobs/info/68ce48addbd9fb154eddd904?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Maryland, United States | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
