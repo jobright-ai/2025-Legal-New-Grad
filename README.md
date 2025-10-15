@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Farmers Insurance](https://www.farmers.com)** | **[Field Property Claims Adjuster - Mankato, MN](https://jobright.ai/jobs/info/68dae5f76df7b8311bb13d23?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Mankato, MN | On Site | Oct 15 |
 | **[Law Firms](https://www.marklitwak.com)** | **[Remote in Georgia / Plaintiff Labor And Employment Attorney](https://jobright.ai/jobs/info/68daddb007c157682e56eb90?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Georgia, United States | Remote | Oct 14 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Insurance Recovery Associate Attorney - Junior to Midlevel](https://jobright.ai/jobs/info/6696b0356ff37b6a8706eb3f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
 | **[Bighorn Law](https://bighornlaw.com)** | **[Litigation Paralegal](https://jobright.ai/jobs/info/68d1bbe38c62e63bc7fcf38d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 14 |
+| **[New York State Department of Financial Services](https://www.dfs.ny.gov)** | **[Financial Services Examiner Trainee 1, NS](https://jobright.ai/jobs/info/67edad4847a7de490f7c2fd9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | Hybrid | Oct 14 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Attorney I - II](https://jobright.ai/jobs/info/685a0539eb7d70052484bded?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ | On Site | Oct 14 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Contract Compliance Coordinator](https://jobright.ai/jobs/info/68d1f34a8c62e63bc7fd1954?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Port Arthur, TX | On Site | Oct 14 |
 | **[Fenwick & West](http://fenwick.com)** | **[Junior and Mid-Level Patent Litigation Associate](https://jobright.ai/jobs/info/68ce5525dbd9fb154edde85e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 14 |
@@ -119,7 +121,8 @@ For a complete list, click the following sortable link below:
 | **[LSEG](http://www.lseg.com)** | **[Paralegal](https://jobright.ai/jobs/info/6876ca61ae2f413e4a5b3ac0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | On Site | Oct 09 |
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Legal Administrative Assistant](https://jobright.ai/jobs/info/68ccf46a77add66568abc78a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | On Site | Oct 09 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Compliance Administrator](https://jobright.ai/jobs/info/68cd1433e23def7af55b4f2f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Jersey, United States | On Site | Oct 09 |
-| ↳ | **[Compliance Administrator](https://jobright.ai/jobs/info/68c98b5af9c6ff7aedf1aadc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Blue Bell, PA | On Site | Oct 09 |
+| **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Assistant - January 2026](https://jobright.ai/jobs/info/68ccf77877add66568abcdcf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wilmington, DE | On Site | Oct 09 |
+| **[USI Insurance Services](https://www.usi.com/)** | **[Compliance Administrator](https://jobright.ai/jobs/info/68c98b5af9c6ff7aedf1aadc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Blue Bell, PA | On Site | Oct 09 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Workers Compensation Defense Attorney I or II](https://jobright.ai/jobs/info/68cc3fa67342c7623ae618b7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pasadena, CA | Hybrid | Oct 09 |
 | **[Ankura](https://ankura.com)** | **[University Associate, Intellectual Property](https://jobright.ai/jobs/info/68cc228c16d00d2beeb1a569?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | **[Allstate](http://www.allstate.com)** | **[Early Career Trial Attorney (Remote - New Jersey)](https://jobright.ai/jobs/info/68cbcc3eba798c1a501d556e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Jersey, United States | Remote | Oct 09 |
