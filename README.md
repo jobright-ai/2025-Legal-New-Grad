@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Full-Time Corporate Security Officer - Armonk, NY - $19.00/Hr.](https://jobright.ai/jobs/info/68b768262124650c140229f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | White Plains, NY | On Site | Oct 15 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Field Property Claims Adjuster - Mankato, MN](https://jobright.ai/jobs/info/68dae5f76df7b8311bb13d23?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Mankato, MN | On Site | Oct 15 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Associate, Model Risk](https://jobright.ai/jobs/info/68cd5ba61ad6b16f028987b8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ | Hybrid | Oct 15 |
 | **[Law Firms](https://www.marklitwak.com)** | **[Remote in Georgia / Plaintiff Labor And Employment Attorney](https://jobright.ai/jobs/info/68daddb007c157682e56eb90?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Georgia, United States | Remote | Oct 14 |
@@ -134,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Allstate](http://www.allstate.com)** | **[Trial Attorney (Hybrid, Connecticut)](https://jobright.ai/jobs/info/68ca278ff61c922772a736a4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Rocky Hill, CT | Hybrid | Oct 08 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Field Property Claims Adjuster](https://jobright.ai/jobs/info/68d770fa61a175619f8cda0b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Minneapolis, MN | On Site | Oct 08 |
 | **[FalconX](http://www.falconx.io)** | **[Compliance Onboarding Associate](https://jobright.ai/jobs/info/68adf682daf1431824c9f4a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 08 |
-| **[LPL Financial](https://www.lpl.com)** | **[Trust Specialist](https://jobright.ai/jobs/info/68c9b45495f5211cd2cf330c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Mill, SC | Hybrid | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
