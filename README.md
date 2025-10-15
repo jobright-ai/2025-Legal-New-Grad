@@ -131,6 +131,4 @@ For a complete list, click the following sortable link below:
 | **[LPL Financial](https://www.lpl.com)** | **[Trust Specialist](https://jobright.ai/jobs/info/68c9b45495f5211cd2cf330c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Mill, SC | Hybrid | Oct 08 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[2026 Campus Recruitment Operation Service Department Custody Associate](https://jobright.ai/jobs/info/68cfea2cdbd9fb154edebd70?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[Albert and Mackenzie](https://albmac.com)** | **[Attorney (Remote - CA only)](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9d81?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Hybrid | Oct 08 |
-| **[Point72](https://www.point72.com)** | **[Canvas Compliance Analyst](https://jobright.ai/jobs/info/687c98982097a271a898b677?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 08 |
-| **[Fenwick & West](http://fenwick.com)** | **[Litigation Administrative Assistant](https://jobright.ai/jobs/info/68aeccf303c5f15c2fd8bb25?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Silicon Valley, CA | Hybrid | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
