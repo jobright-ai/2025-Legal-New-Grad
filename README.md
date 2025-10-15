@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Field Property Claims Adjuster - Mankato, MN](https://jobright.ai/jobs/info/68dae5f76df7b8311bb13d23?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Mankato, MN | On Site | Oct 15 |
+| **[Prudential Financial](http://www.prudential.com)** | **[Associate, Model Risk](https://jobright.ai/jobs/info/68cd5ba61ad6b16f028987b8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ | Hybrid | Oct 15 |
 | **[Law Firms](https://www.marklitwak.com)** | **[Remote in Georgia / Plaintiff Labor And Employment Attorney](https://jobright.ai/jobs/info/68daddb007c157682e56eb90?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Georgia, United States | Remote | Oct 14 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Insurance Recovery Associate Attorney - Junior to Midlevel](https://jobright.ai/jobs/info/6696b0356ff37b6a8706eb3f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
 | **[Bighorn Law](https://bighornlaw.com)** | **[Litigation Paralegal](https://jobright.ai/jobs/info/68d1bbe38c62e63bc7fcf38d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 14 |
@@ -134,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Field Property Claims Adjuster](https://jobright.ai/jobs/info/68d770fa61a175619f8cda0b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Minneapolis, MN | On Site | Oct 08 |
 | **[FalconX](http://www.falconx.io)** | **[Compliance Onboarding Associate](https://jobright.ai/jobs/info/68adf682daf1431824c9f4a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[LPL Financial](https://www.lpl.com)** | **[Trust Specialist](https://jobright.ai/jobs/info/68c9b45495f5211cd2cf330c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Mill, SC | Hybrid | Oct 08 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[2026 Campus Recruitment Operation Service Department Custody Associate](https://jobright.ai/jobs/info/68cfea2cdbd9fb154edebd70?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
