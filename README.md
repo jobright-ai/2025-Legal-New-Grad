@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crawford & Company](https://www.crawco.com)** | **[Property Adj](https://jobright.ai/jobs/info/687e9607764c3d7411c449e1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Bloomington, IL | On Site | Oct 15 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Full-Time Corporate Security Officer - Armonk, NY - $19.00/Hr.](https://jobright.ai/jobs/info/68b768262124650c140229f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | White Plains, NY | On Site | Oct 15 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Field Property Claims Adjuster - Mankato, MN](https://jobright.ai/jobs/info/68dae5f76df7b8311bb13d23?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Mankato, MN | On Site | Oct 15 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Associate, Model Risk](https://jobright.ai/jobs/info/68cd5ba61ad6b16f028987b8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ | Hybrid | Oct 15 |
