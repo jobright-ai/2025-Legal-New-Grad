@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mintz](http://www.mintz.com)** | **[Bankruptcy Associate - NY / BOS](https://jobright.ai/jobs/info/68cc347e16d00d2beeb1ba26?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | Hybrid | Oct 16 |
 | **[Berliner Cohen, LLP](http://berliner.com)** | **[Litigation Associate](https://jobright.ai/jobs/info/68a4a1aa541cc3479840cb6d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Merced, CA | On Site | Oct 15 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Title Abstractor Searcher I](https://jobright.ai/jobs/info/68d1ff098c62e63bc7fd2109?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Rochester, New York Metropolitan Area | On Site | Oct 15 |
 | **[California Department of Justice](http://www.oag.ca.gov)** | **[Attorney General's Honors Program](https://jobright.ai/jobs/info/68bba6308043103d4f22a7a3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Hybrid | Oct 15 |
-| **[AXA XL](https://axaxl.com)** | **[Associate Claims Specialist, Cyber](https://jobright.ai/jobs/info/689bd00683d13d1f5b6a3a52?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Exton, PA | Hybrid | Oct 15 |
 | **[Gallivan, White & Boyd, P.A.](http://www.gwblawfirm.com/)** | **[Associate Attorney - Litigation/TIPS](https://jobright.ai/jobs/info/6855941672028ad6f5ac248d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greenville, SC | Hybrid | Oct 15 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Insurance Assistant - Professional CL Lawyers](https://jobright.ai/jobs/info/68d3142317554c2d9eeedbd3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Matawan, NJ | On Site | Oct 15 |
 | **[Baker McKenzie](http://www.bakermckenzie.com/)** | **[Legal Secretary](https://jobright.ai/jobs/info/68cbb0f4efdec76df36c126f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Palo Alto, CA | On Site | Oct 15 |
@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Assistant City Solicitor – Tax Litigation and Collections Unit – Bankruptcy Division](https://jobright.ai/jobs/info/68d3901717554c2d9eef2ad9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Philadelphia, PA | On Site | Oct 15 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Associate, Model Risk](https://jobright.ai/jobs/info/68cd5ba61ad6b16f028987b8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ | Hybrid | Oct 15 |
 | **[Law Firms](https://www.marklitwak.com)** | **[Remote in Georgia / Plaintiff Labor And Employment Attorney](https://jobright.ai/jobs/info/68daddb007c157682e56eb90?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Georgia, United States | Remote | Oct 14 |
+| **[Clyde & Co](https://www.clydeco.com)** | **[Paralegal - Trial & Defense](https://jobright.ai/jobs/info/68d203db8c62e63bc7fd22f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 14 |
 | **[Morgan, Lewis & Bockius LLP](http://www.morganlewis.com/)** | **[Practice Group Support Assistant](https://jobright.ai/jobs/info/68d1a87a8c62e63bc7fce171?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 14 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Insurance Recovery Associate Attorney - Junior to Midlevel](https://jobright.ai/jobs/info/6696b0356ff37b6a8706eb3f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Claims Attorney](https://jobright.ai/jobs/info/68b2a71df4e41a61efd875a4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA | On Site | Oct 14 |
@@ -124,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cb30d3efdec76df36b9ec8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newport Beach, CA | Hybrid | Oct 09 |
 | **[TORY BURCH](http://toryburch.com)** | **[Trade Compliance Coordinator](https://jobright.ai/jobs/info/68a6669b33dd7158bbc9fc91?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ | On Site | Oct 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Americas Delivery Center - Financial Crimes Compliance Analyst](https://jobright.ai/jobs/info/68ae5d14daf1431824ca28e1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cincinnati, OH | Hybrid | Oct 09 |
-| **[Wilshire Law Firm](https://wilshirelawfirm.com)** | **[Associate Attorney - Personal Injury Litigation](https://jobright.ai/jobs/info/68a703fd758f2e4ac3fe8fc0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
