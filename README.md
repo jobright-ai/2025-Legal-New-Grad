@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Mintz](http://www.mintz.com)** | **[Bankruptcy Associate - NY / BOS](https://jobright.ai/jobs/info/68cc347e16d00d2beeb1ba26?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | Hybrid | Oct 16 |
 | **[Berliner Cohen, LLP](http://berliner.com)** | **[Litigation Associate](https://jobright.ai/jobs/info/68a4a1aa541cc3479840cb6d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Merced, CA | On Site | Oct 15 |
+| **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Associate, Delaware](https://jobright.ai/jobs/info/67ed38b14ea29c752bd18ce2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wilmington, DE | Hybrid | Oct 15 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Title Abstractor Searcher I](https://jobright.ai/jobs/info/68d1ff098c62e63bc7fd2109?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Rochester, New York Metropolitan Area | On Site | Oct 15 |
 | **[California Department of Justice](http://www.oag.ca.gov)** | **[Attorney General's Honors Program](https://jobright.ai/jobs/info/68bba6308043103d4f22a7a3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Hybrid | Oct 15 |
 | **[Gallivan, White & Boyd, P.A.](http://www.gwblawfirm.com/)** | **[Associate Attorney - Litigation/TIPS](https://jobright.ai/jobs/info/6855941672028ad6f5ac248d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greenville, SC | Hybrid | Oct 15 |
@@ -124,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Coord, Contracts](https://jobright.ai/jobs/info/68cc3e0f128dc347fd9216ee?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Richmond, VA | On Site | Oct 10 |
 | **[Bremer Whyte Brown & O'Meara, LLP](https://bremerwhyte.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cb30d3efdec76df36b9ec8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newport Beach, CA | Hybrid | Oct 09 |
 | **[TORY BURCH](http://toryburch.com)** | **[Trade Compliance Coordinator](https://jobright.ai/jobs/info/68a6669b33dd7158bbc9fc91?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ | On Site | Oct 09 |
-| **[Protiviti](http://www.protiviti.com)** | **[Americas Delivery Center - Financial Crimes Compliance Analyst](https://jobright.ai/jobs/info/68ae5d14daf1431824ca28e1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cincinnati, OH | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
