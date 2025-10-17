@@ -122,7 +122,4 @@ For a complete list, click the following sortable link below:
 | **[JC Law](https://jamescrawfordlaw.com/)** | **[Family Law Legal Assistant](https://jobright.ai/jobs/info/68bd9bbdc4c5904ff6003f1a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Linthicum Heights, MD | On Site | Oct 10 |
 | ↳ | **[Associate Attorney](https://jobright.ai/jobs/info/68be0e08df5eec448f63da25?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fairfax, VA | Hybrid | Oct 10 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Associate Claims Examiner](https://jobright.ai/jobs/info/68cc403d16d00d2beeb1c743?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Philadelphia | Hybrid | Oct 10 |
-| **[K&L Gates](http://www.klgates.com/)** | **[Raleigh Midlevel Labor, Employment, Workplace Safety Associate](https://jobright.ai/jobs/info/68cc5c2f128dc347fd9236e7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Raleigh, NC | Hybrid | Oct 10 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Associate Claims Examiner](https://jobright.ai/jobs/info/68cc36547342c7623ae60f9c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | NYC Metro Area | On Site | Oct 10 |
-| ↳ | **[Associate Claims Examiner](https://jobright.ai/jobs/info/68cc3b4a128dc347fd921367?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ | Hybrid | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
