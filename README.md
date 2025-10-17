@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Entry Level Staff](https://jobright.ai/jobs/info/68d5944c39247e3c807ed25d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | On Site | Oct 17 |
 | **[Mintz](http://www.mintz.com)** | **[Bankruptcy Associate - NY / BOS](https://jobright.ai/jobs/info/68cc347e16d00d2beeb1ba26?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | Hybrid | Oct 16 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Post-Doctoral Regulatory Affairs Fellow - Product Strategy](https://jobright.ai/jobs/info/68d447fcffc1276de3fd939f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Ridgefield, CT | Hybrid | Oct 16 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Customs Entry Writer](https://jobright.ai/jobs/info/68d7759e295f8e37655d9eba?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Carson, CA | On Site | Oct 16 |
@@ -112,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Jacoby & Meyers Accident & Injury Lawyers](https://www.jacobyandmeyers.com)** | **[Pre-Litigation Associate Attorney - Remote](https://jobright.ai/jobs/info/67a061e7d0a6b0a426b4b3ac?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 12 |
 | **[Pampered Chef](https://www.pamperedchef.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cdc0b1e23def7af55bec87?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Addison, IL | Hybrid | Oct 11 |
 | **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[Assistant District Attorney Spring 2026](https://jobright.ai/jobs/info/68cd9e2eb2a74e1837ed9c79?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Bronx, NY | On Site | Oct 11 |
-| **[Kirkland & Ellis](https://www.kirkland.com/)** | **[Practice Assistant / Legal Secretary](https://jobright.ai/jobs/info/68b8964aea901c0d269f7c56?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Hybrid | Oct 11 |
 | **[Ormco](http://www.ormco.com)** | **[Regulatory Affairs Associate](https://jobright.ai/jobs/info/68940032a9199876488e1b04?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Brea, CA | On Site | Oct 11 |
 | **[Esri](https://www.esri.com)** | **[Contracts Coordinator](https://jobright.ai/jobs/info/68cd1c14e23def7af55b5910?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Redlands, CA | On Site | Oct 11 |
 | **[McDermott Will & Schulte](http://www.mwe.com/)** | **[Associate – Litigation (Supreme Court & Appellate) – Washington, D.C.](https://jobright.ai/jobs/info/68d00c2a846f0b04af687354?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | On Site | Oct 11 |
