@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Mintz](http://www.mintz.com)** | **[Bankruptcy Associate - NY / BOS](https://jobright.ai/jobs/info/68cc347e16d00d2beeb1ba26?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | Hybrid | Oct 16 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Post-Doctoral Regulatory Affairs Fellow - Product Strategy](https://jobright.ai/jobs/info/68d447fcffc1276de3fd939f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Ridgefield, CT | Hybrid | Oct 16 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Customs Entry Writer](https://jobright.ai/jobs/info/68d7759e295f8e37655d9eba?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Carson, CA | On Site | Oct 16 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Insurance Defense Attorney - Los Angeles](https://jobright.ai/jobs/info/689d42da83d13d1f5b6ae76a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 16 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Legal & Compliance, Research Compliance Associate (Summer 2026)](https://jobright.ai/jobs/info/68b77f441ade4306aa64b727?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 16 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Bighorn Law](https://bighornlaw.com)** | **[Litigation Paralegal](https://jobright.ai/jobs/info/68d1bbe38c62e63bc7fcf38d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 14 |
 | **[New York State Department of Financial Services](https://www.dfs.ny.gov)** | **[Financial Services Examiner Trainee 1, NS](https://jobright.ai/jobs/info/67edad4847a7de490f7c2fd9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | Hybrid | Oct 14 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Attorney I - II](https://jobright.ai/jobs/info/685a0539eb7d70052484bded?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ | On Site | Oct 14 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Contract Compliance Coordinator](https://jobright.ai/jobs/info/68d1f34a8c62e63bc7fd1954?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Port Arthur, TX | On Site | Oct 14 |
 | **[Fenwick & West](http://fenwick.com)** | **[Junior and Mid-Level Patent Litigation Associate](https://jobright.ai/jobs/info/68ce5525dbd9fb154edde85e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 14 |
 | **[ONEOK](http://www.oneok.com)** | **[Contract Analyst II](https://jobright.ai/jobs/info/68d4ed7b2ed36439e51e2eff?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tulsa, OK | On Site | Oct 14 |
 | **[Allstate](http://www.allstate.com)** | **[Early Career Trial Attorney (Remote - Orlando, FL)](https://jobright.ai/jobs/info/68d1abf9a54edb3bf3e14c51?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami-FTL Area | Remote | Oct 14 |
@@ -125,6 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Associate Claims Examiner](https://jobright.ai/jobs/info/68cc36547342c7623ae60f9c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | NYC Metro Area | On Site | Oct 10 |
 | ↳ | **[Associate Claims Examiner](https://jobright.ai/jobs/info/68cc3b4a128dc347fd921367?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ | Hybrid | Oct 10 |
 | **[UnitedLex](http://www.unitedlex.com)** | **[Contracts Analyst - US Contracts Management](https://jobright.ai/jobs/info/68d756277a37c712687c8da1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 10 |
-| **[HomeServices of America](http://www.homeservices.com/)** | **[Escrow Closer](https://jobright.ai/jobs/info/68c8bfd9983e6768bc5511a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Paul, MN | Hybrid | Oct 10 |
-| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Coord, Contracts](https://jobright.ai/jobs/info/68cc3e0f128dc347fd9216ee?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Richmond, VA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
