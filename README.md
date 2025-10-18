@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Asset Protection Associate](https://jobright.ai/jobs/info/68bb06136105227d118a2643?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | On Site | Oct 18 |
+| **[Netflix](https://www.netflix.com)** | **[Manager, Data Protection](https://jobright.ai/jobs/info/68cba97e9e3a822f5d249eaf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Entry Level Staff](https://jobright.ai/jobs/info/68d5944c39247e3c807ed25d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | On Site | Oct 17 |
 | **[McDermott Will & Schulte](http://www.mwe.com/)** | **[Associate – Corporate (Structured Finance, CLOs & Alternative Assets) – New York](https://jobright.ai/jobs/info/68bf61245c5d5f14f46d65e0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | Hybrid | Oct 16 |
 | **[Mintz](http://www.mintz.com)** | **[Bankruptcy Associate - NY / BOS](https://jobright.ai/jobs/info/68cc347e16d00d2beeb1ba26?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | Hybrid | Oct 16 |
