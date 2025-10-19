@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SoFi](https://www.sofi.com)** | **[Fraud Specialist, Investigations](https://jobright.ai/jobs/info/68d70d05d3fe025a3015e902?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | On Site | Oct 18 |
+| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Property Claims Field Trainee](https://jobright.ai/jobs/info/68cc67337342c7623ae64504?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Simi Valley, CA | Hybrid | Oct 18 |
 | **[Netflix](https://www.netflix.com)** | **[Manager, Data Protection](https://jobright.ai/jobs/info/68cba97e9e3a822f5d249eaf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Entry Level Staff](https://jobright.ai/jobs/info/68d5944c39247e3c807ed25d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | On Site | Oct 17 |
 | **[KLDiscovery](https://www.kldiscovery.com/)** | **[Document Reviewer](https://jobright.ai/jobs/info/68643f5353eb2f5985836ce2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Florida, United States | Remote | Oct 17 |
