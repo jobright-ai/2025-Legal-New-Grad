@@ -109,5 +109,4 @@ For a complete list, click the following sortable link below:
 | **[SHEIN](https://careers.shein.com/)** | **[Paralegal, US Legal-LA, US](https://jobright.ai/jobs/info/68ca9fc0efdec76df36b4b1d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
 | **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Analyst (Paralegal)](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e806f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Jose, CA | Hybrid | Oct 12 |
 | **[ByteDance](http://bytedance.com)** | **[Risk Control Business Partner Graduate (Risk Control) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf0058fb49c96ca6ea4f68?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Jose, CA | On Site | Oct 12 |
-| **[State of Missouri](http://mo.gov)** | **[Early Hire Attorney](https://jobright.ai/jobs/info/68b2f3c8f4e41a61efd88567?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Missouri, United States | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
