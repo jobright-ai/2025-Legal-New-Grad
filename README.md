@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Walmart](http://www.walmart.com)** | **[Asset Protection Associate](https://jobright.ai/jobs/info/68bb06136105227d118a2643?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | On Site | Oct 18 |
+| **[SoFi](https://www.sofi.com)** | **[Fraud Specialist, Investigations](https://jobright.ai/jobs/info/68d70d05d3fe025a3015e902?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | On Site | Oct 18 |
 | **[Netflix](https://www.netflix.com)** | **[Manager, Data Protection](https://jobright.ai/jobs/info/68cba97e9e3a822f5d249eaf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Entry Level Staff](https://jobright.ai/jobs/info/68d5944c39247e3c807ed25d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | On Site | Oct 17 |
 | **[McDermott Will & Schulte](http://www.mwe.com/)** | **[Associate – Corporate (Structured Finance, CLOs & Alternative Assets) – New York](https://jobright.ai/jobs/info/68bf61245c5d5f14f46d65e0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | Hybrid | Oct 16 |
@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Risk Control Business Partner Graduate (Risk Control) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf0058fb49c96ca6ea4f68?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Jose, CA | On Site | Oct 12 |
 | **[State of Missouri](http://mo.gov)** | **[Early Hire Attorney](https://jobright.ai/jobs/info/68b2f3c8f4e41a61efd88567?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Missouri, United States | On Site | Oct 12 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal - Commercial/Business Litigation](https://jobright.ai/jobs/info/68cc2fe216d00d2beeb1b394?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irvine, CA | On Site | Oct 12 |
-| **[Everest](https://www.everestglobal.com/)** | **[Senior Claims Specialist - Management Liability](https://jobright.ai/jobs/info/68985e6f5574fd6bc0c793a6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Hybrid | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
