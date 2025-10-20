@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BANK19](https://www.linkedin.com/company/108128111)** | **[PCCD Reviewer](https://jobright.ai/jobs/info/68bed8405c5d5f14f46d17ab?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO | On Site | Oct 18 |
 | **[SoFi](https://www.sofi.com)** | **[Fraud Specialist, Investigations](https://jobright.ai/jobs/info/68d70d05d3fe025a3015e902?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | On Site | Oct 18 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Property Claims Field Trainee](https://jobright.ai/jobs/info/68cc67337342c7623ae64504?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Simi Valley, CA | Hybrid | Oct 18 |
 | **[Netflix](https://www.netflix.com)** | **[Manager, Data Protection](https://jobright.ai/jobs/info/68cba97e9e3a822f5d249eaf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 18 |
@@ -100,9 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Mayer Brown](http://www.mayerbrown.com/)** | **[Paralegal](https://jobright.ai/jobs/info/688a8d259f961617fe21c887?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 13 |
 | **[South Carolina Legal Services](https://www.sclegal.org)** | **[Attorney](https://jobright.ai/jobs/info/68cc528b128dc347fd922994?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Conway, SC | On Site | Oct 13 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Insurance Recovery Associate Attorney - Junior to Midlevel](https://jobright.ai/jobs/info/66969a716df5fce96b1b6838?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 13 |
-| **[Law Firms](https://www.marklitwak.com)** | **[(Remote) Mass Tort Attorney](https://jobright.ai/jobs/info/68c45a22e471ef3ce16d5625?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 13 |
-| ↳ | **[Remote - Attorney](https://jobright.ai/jobs/info/68bb97b25f383274918707f8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 13 |
-| ↳ | **[Fully Remote - Attorney (Employment and Labor Law)](https://jobright.ai/jobs/info/68b3bc361ade4306aa63bbc1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 13 |
-| **[Segal McCambridge](https://www.segalmccambridge.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cf1241fb49c96ca6ea59d6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | NYC Metro Area | Hybrid | Oct 13 |
-| **[Shook, Hardy & Bacon L.L.P.](http://www.shb.com)** | **[Legal Administrative Assistant](https://jobright.ai/jobs/info/68ce6cc1dbd9fb154eddf88e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
