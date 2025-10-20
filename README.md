@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudforce](https://www.gocloudforce.com)** | **[Junior Contracts Specialist](https://jobright.ai/jobs/info/67f5a111872fc715e680cb83?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | DC-Baltimore Area | Hybrid | Oct 20 |
 | **[BANK19](https://www.linkedin.com/company/108128111)** | **[PCCD Reviewer](https://jobright.ai/jobs/info/68bed8405c5d5f14f46d17ab?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO | On Site | Oct 18 |
 | **[SoFi](https://www.sofi.com)** | **[Fraud Specialist, Investigations](https://jobright.ai/jobs/info/68d70d05d3fe025a3015e902?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | On Site | Oct 18 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Property Claims Field Trainee](https://jobright.ai/jobs/info/68cc67337342c7623ae64504?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Simi Valley, CA | Hybrid | Oct 18 |
@@ -96,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Insurance Recovery Associate Attorney - Junior to Midlevel](https://jobright.ai/jobs/info/6696a6d44868e9a2bb35e24b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 14 |
 | **[Allstate](http://www.allstate.com)** | **[Early Career Trial Attorney (Remote - Orlando, FL)](https://jobright.ai/jobs/info/68d1abf9a54edb3bf3e14c51?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami-FTL Area | Remote | Oct 14 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Associate Claims Representative, Field -NJ](https://jobright.ai/jobs/info/68cfdcf9846f0b04af6857e7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Woodbridge, NJ | On Site | Oct 14 |
-| **[Strategic Legal Practices, APC](https://www.slpattorney.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cc7fd17342c7623ae65e76?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | LA Metro Area | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
