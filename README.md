@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Asset Protection Associate](https://jobright.ai/jobs/info/68bcfa9968300c452ca16c0f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Savannah, GA | On Site | Oct 19 |
 | **[BANK19](https://www.linkedin.com/company/108128111)** | **[PCCD Reviewer](https://jobright.ai/jobs/info/68bed8405c5d5f14f46d17ab?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO | On Site | Oct 18 |
 | **[SoFi](https://www.sofi.com)** | **[Fraud Specialist, Investigations](https://jobright.ai/jobs/info/68d70d05d3fe025a3015e902?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | On Site | Oct 18 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Property Claims Field Trainee](https://jobright.ai/jobs/info/68cc67337342c7623ae64504?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Simi Valley, CA | Hybrid | Oct 18 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[SHI International Corp.](http://www.shi.com)** | **[Contracts Specialist](https://jobright.ai/jobs/info/68cf2c63846f0b04af67fa80?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Somerset, NJ | On Site | Oct 15 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Full-Time Corporate Security Officer - Armonk, NY - $19.00/Hr.](https://jobright.ai/jobs/info/68b768262124650c140229f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | White Plains, NY | On Site | Oct 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Associate, Cyber Risk & Analysis - Enterprise Services Risk](https://jobright.ai/jobs/info/68b785d41ade4306aa64bb2f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | McLean, VA | On Site | Oct 15 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Assistant City Solicitor – Tax Litigation and Collections Unit – Bankruptcy Division](https://jobright.ai/jobs/info/68d3901717554c2d9eef2ad9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Philadelphia, PA | On Site | Oct 15 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Associate, Model Risk](https://jobright.ai/jobs/info/68cd5ba61ad6b16f028987b8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ | Hybrid | Oct 15 |
 | **[Law Firms](https://www.marklitwak.com)** | **[Remote in Georgia / Plaintiff Labor And Employment Attorney](https://jobright.ai/jobs/info/68daddb007c157682e56eb90?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Georgia, United States | Remote | Oct 14 |
 | **[Clyde & Co](https://www.clydeco.com)** | **[Paralegal - Trial & Defense](https://jobright.ai/jobs/info/68d203db8c62e63bc7fd22f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 14 |
