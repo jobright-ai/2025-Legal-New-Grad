@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Walmart](http://www.walmart.com)** | **[Asset Protection Associate](https://jobright.ai/jobs/info/68bcfa9968300c452ca16c0f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Savannah, GA | On Site | Oct 19 |
 | **[BANK19](https://www.linkedin.com/company/108128111)** | **[PCCD Reviewer](https://jobright.ai/jobs/info/68bed8405c5d5f14f46d17ab?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO | On Site | Oct 18 |
 | **[SoFi](https://www.sofi.com)** | **[Fraud Specialist, Investigations](https://jobright.ai/jobs/info/68d70d05d3fe025a3015e902?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | On Site | Oct 18 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Property Claims Field Trainee](https://jobright.ai/jobs/info/68cc67337342c7623ae64504?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Simi Valley, CA | Hybrid | Oct 18 |
