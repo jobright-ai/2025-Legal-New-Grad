@@ -160,5 +160,4 @@ For a complete list, click the following sortable link below:
 | **[Osaic](https://osaic.com/)** | **[Trust Administrator I](https://jobright.ai/jobs/info/68d75612295f8e37655d4b81?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Henderson, NV | On Site | Oct 08 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68c8b3e8983e6768bc55094d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Walnut Creek, CA | Hybrid | Oct 07 |
 | ↳ | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68c8bb2cf9c6ff7aedf1218f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Carlsbad, CA | Hybrid | Oct 07 |
-| ↳ | **[Paralegal](https://jobright.ai/jobs/info/68cd289de23def7af55b628c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
