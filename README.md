@@ -92,6 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Bighorn Law](https://bighornlaw.com)** | **[Litigation Paralegal](https://jobright.ai/jobs/info/68d1bbe38c62e63bc7fcf38d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 14 |
 | **[New York State Department of Financial Services](https://www.dfs.ny.gov)** | **[Financial Services Examiner Trainee 1, NS](https://jobright.ai/jobs/info/67edad4847a7de490f7c2fd9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | Hybrid | Oct 14 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Attorney I - II](https://jobright.ai/jobs/info/685a0539eb7d70052484bded?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ | On Site | Oct 14 |
-| **[Fenwick & West](http://fenwick.com)** | **[Junior and Mid-Level Patent Litigation Associate](https://jobright.ai/jobs/info/68ce5525dbd9fb154edde85e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 14 |
-| **[ONEOK](http://www.oneok.com)** | **[Contract Analyst II](https://jobright.ai/jobs/info/68d4ed7b2ed36439e51e2eff?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tulsa, OK | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
