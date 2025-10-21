@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Primoris Services Corporation](http://prim.com)** | **[Contracts Analyst](https://jobright.ai/jobs/info/68d2bbabf0d9af73038da759?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver Metropolitan Area | On Site | Oct 21 |
 | **[Cloudforce](https://www.gocloudforce.com)** | **[Junior Contracts Specialist](https://jobright.ai/jobs/info/67f5a111872fc715e680cb83?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | DC-Baltimore Area | Hybrid | Oct 20 |
 | **[BANK19](https://www.linkedin.com/company/108128111)** | **[PCCD Reviewer](https://jobright.ai/jobs/info/68bed8405c5d5f14f46d17ab?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO | On Site | Oct 18 |
 | **[SoFi](https://www.sofi.com)** | **[Fraud Specialist, Investigations](https://jobright.ai/jobs/info/68d70d05d3fe025a3015e902?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | On Site | Oct 18 |
@@ -91,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Claims Attorney](https://jobright.ai/jobs/info/68b2a71df4e41a61efd875a4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA | On Site | Oct 14 |
 | **[Bighorn Law](https://bighornlaw.com)** | **[Litigation Paralegal](https://jobright.ai/jobs/info/68d1bbe38c62e63bc7fcf38d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 14 |
 | **[New York State Department of Financial Services](https://www.dfs.ny.gov)** | **[Financial Services Examiner Trainee 1, NS](https://jobright.ai/jobs/info/67edad4847a7de490f7c2fd9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | Hybrid | Oct 14 |
-| **[Maricopa County](http://www.maricopa.gov)** | **[Attorney I - II](https://jobright.ai/jobs/info/685a0539eb7d70052484bded?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ | On Site | Oct 14 |
 | **[Fenwick & West](http://fenwick.com)** | **[Junior and Mid-Level Patent Litigation Associate](https://jobright.ai/jobs/info/68ce5525dbd9fb154edde85e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 14 |
 | **[ONEOK](http://www.oneok.com)** | **[Contract Analyst II](https://jobright.ai/jobs/info/68d4ed7b2ed36439e51e2eff?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tulsa, OK | On Site | Oct 14 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Insurance Recovery Associate Attorney - Junior to Midlevel](https://jobright.ai/jobs/info/6696a6d44868e9a2bb35e24b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 14 |
@@ -159,5 +159,4 @@ For a complete list, click the following sortable link below:
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal](https://jobright.ai/jobs/info/68cd7b08e23def7af55ba916?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[Osaic](https://osaic.com/)** | **[Trust Administrator I](https://jobright.ai/jobs/info/68d75612295f8e37655d4b81?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Henderson, NV | On Site | Oct 08 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68c8b3e8983e6768bc55094d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Walnut Creek, CA | Hybrid | Oct 07 |
-| ↳ | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68c8bb2cf9c6ff7aedf1218f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Carlsbad, CA | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
