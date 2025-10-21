@@ -102,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[South Carolina Legal Services](https://www.sclegal.org)** | **[Attorney](https://jobright.ai/jobs/info/68cc528b128dc347fd922994?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Conway, SC | On Site | Oct 13 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Insurance Recovery Associate Attorney - Junior to Midlevel](https://jobright.ai/jobs/info/66969a716df5fce96b1b6838?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 13 |
 | **[Law Firms](https://www.marklitwak.com)** | **[(Remote) Mass Tort Attorney](https://jobright.ai/jobs/info/68c45a22e471ef3ce16d5625?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 13 |
-| ↳ | **[Remote - Attorney](https://jobright.ai/jobs/info/68bb97b25f383274918707f8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 13 |
 | ↳ | **[Fully Remote - Attorney (Employment and Labor Law)](https://jobright.ai/jobs/info/68b3bc361ade4306aa63bbc1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 13 |
 | **[Segal McCambridge](https://www.segalmccambridge.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cf1241fb49c96ca6ea59d6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | NYC Metro Area | Hybrid | Oct 13 |
 | **[Shook, Hardy & Bacon L.L.P.](http://www.shb.com)** | **[Legal Administrative Assistant](https://jobright.ai/jobs/info/68ce6cc1dbd9fb154eddf88e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT | On Site | Oct 13 |
@@ -165,5 +164,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68c8bb2cf9c6ff7aedf1218f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Carlsbad, CA | Hybrid | Oct 07 |
 | ↳ | **[Paralegal](https://jobright.ai/jobs/info/68cd289de23def7af55b628c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | On Site | Oct 07 |
 | **[Kimball, Tirey & St. John LLP](https://www.kts-law.com)** | **[Attorney](https://jobright.ai/jobs/info/68c8ca87f9c6ff7aedf12b0b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Concord, CA | Hybrid | Oct 07 |
-| **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68ccf75477add66568abcd85?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
