@@ -158,5 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Roland Foods, LLC](https://www.rolandfoods.com/)** | **[Legal Assistant](https://jobright.ai/jobs/info/689866a35574fd6bc0c79ccd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Hybrid | Oct 08 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal](https://jobright.ai/jobs/info/68cd7b08e23def7af55ba916?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[Osaic](https://osaic.com/)** | **[Trust Administrator I](https://jobright.ai/jobs/info/68d75612295f8e37655d4b81?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Henderson, NV | On Site | Oct 08 |
-| **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal (No Experience Required)](https://jobright.ai/jobs/info/68c8b3e8983e6768bc55094d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Walnut Creek, CA | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
