@@ -149,5 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Albert and Mackenzie](https://albmac.com)** | **[Attorney (Remote - CA only)](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9d81?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Hybrid | Oct 08 |
 | **[Point72](https://www.point72.com)** | **[Canvas Compliance Analyst](https://jobright.ai/jobs/info/687c98982097a271a898b677?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 08 |
 | **[Fenwick & West](http://fenwick.com)** | **[Litigation Administrative Assistant](https://jobright.ai/jobs/info/68aeccf303c5f15c2fd8bb25?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Silicon Valley, CA | Hybrid | Oct 08 |
-| **[Kern County](https://www.kerncounty.com/)** | **[Deputy District Attorney I/II/III/IV/V](https://jobright.ai/jobs/info/68944a2aa9199876488e440e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Bakersfield Area | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
