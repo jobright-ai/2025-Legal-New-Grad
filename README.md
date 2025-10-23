@@ -124,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[HomeServices of America](http://www.homeservices.com/)** | **[Escrow Closer](https://jobright.ai/jobs/info/68c8bfd9983e6768bc5511a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Paul, MN | Hybrid | Oct 10 |
 | **[TORY BURCH](http://toryburch.com)** | **[Trade Compliance Coordinator](https://jobright.ai/jobs/info/68a6669b33dd7158bbc9fc91?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ | On Site | Oct 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Americas Delivery Center - Financial Crimes Compliance Analyst](https://jobright.ai/jobs/info/68ae5d14daf1431824ca28e1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cincinnati, OH | Hybrid | Oct 09 |
-| **[Wilshire Law Firm](https://wilshirelawfirm.com)** | **[Associate Attorney - Personal Injury Litigation](https://jobright.ai/jobs/info/68a703fd758f2e4ac3fe8fc0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
