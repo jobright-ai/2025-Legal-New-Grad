@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[UnitedLex](http://www.unitedlex.com)** | **[Contracts Analyst - US Contracts Management](https://jobright.ai/jobs/info/68d756277a37c712687c8da1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 10 |
 | **[HomeServices of America](http://www.homeservices.com/)** | **[Escrow Closer](https://jobright.ai/jobs/info/68c8bfd9983e6768bc5511a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Paul, MN | Hybrid | Oct 10 |
 | **[TORY BURCH](http://toryburch.com)** | **[Trade Compliance Coordinator](https://jobright.ai/jobs/info/68a6669b33dd7158bbc9fc91?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ | On Site | Oct 09 |
-| **[Protiviti](http://www.protiviti.com)** | **[Americas Delivery Center - Financial Crimes Compliance Analyst](https://jobright.ai/jobs/info/68ae5d14daf1431824ca28e1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cincinnati, OH | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
