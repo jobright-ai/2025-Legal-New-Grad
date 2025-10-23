@@ -137,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Kobre & Kim](https://kobrekim.com/)** | **[Litigation Assistant - January 2026](https://jobright.ai/jobs/info/68ccf77877add66568abcdcf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wilmington, DE | On Site | Oct 09 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Compliance Administrator](https://jobright.ai/jobs/info/68c98b5af9c6ff7aedf1aadc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Blue Bell, PA | On Site | Oct 09 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Workers Compensation Defense Attorney I or II](https://jobright.ai/jobs/info/68cc3fa67342c7623ae618b7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pasadena, CA | Hybrid | Oct 09 |
-| **[Carrington Holding Company, LLC](http://carringtonhc.com/)** | **[Escrow Administrator, I](https://jobright.ai/jobs/info/68ae6332daf1431824ca2b15?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Westfield, IN | Remote | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
