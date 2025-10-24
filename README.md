@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Giant Food](https://giantfood.com)** | **[FT Associate Asset Protection - Security - 0760](https://jobright.ai/jobs/info/68ccd183b274cd205ab4f8b1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alexandria, VA | On Site | Oct 22 |
 | **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Coordinator](https://jobright.ai/jobs/info/68c113948e65e77df55c73af?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 22 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Contracts Analyst](https://jobright.ai/jobs/info/68d2bbabf0d9af73038da759?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver Metropolitan Area | On Site | Oct 21 |
 | **[Cloudforce](https://www.gocloudforce.com)** | **[Junior Contracts Specialist](https://jobright.ai/jobs/info/67f5a111872fc715e680cb83?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | DC-Baltimore Area | Hybrid | Oct 20 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Baker McKenzie](http://www.bakermckenzie.com/)** | **[Legal Secretary](https://jobright.ai/jobs/info/68cbb0f4efdec76df36c126f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Palo Alto, CA | On Site | Oct 15 |
 | **[Crawford & Company](https://www.crawco.com)** | **[Property Adj](https://jobright.ai/jobs/info/687e9607764c3d7411c449e1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Bloomington, IL | On Site | Oct 15 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Full-Time Corporate Security Officer - Armonk, NY - $19.00/Hr.](https://jobright.ai/jobs/info/68b768262124650c140229f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | White Plains, NY | On Site | Oct 15 |
-| **[Capital One](http://www.capitalone.com)** | **[Associate, Cyber Risk & Analysis - Enterprise Services Risk](https://jobright.ai/jobs/info/68b785d41ade4306aa64bb2f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | McLean, VA | On Site | Oct 15 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Associate, Model Risk](https://jobright.ai/jobs/info/68cd5ba61ad6b16f028987b8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ | Hybrid | Oct 15 |
 | **[Clyde & Co](https://www.clydeco.com)** | **[Paralegal - Trial & Defense](https://jobright.ai/jobs/info/68d203db8c62e63bc7fd22f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 14 |
 | **[Morgan, Lewis & Bockius LLP](http://www.morganlewis.com/)** | **[Practice Group Support Assistant](https://jobright.ai/jobs/info/68d1a87a8c62e63bc7fce171?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 14 |
