@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Coordinator](https://jobright.ai/jobs/info/68c113948e65e77df55c73af?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 22 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Contracts Analyst](https://jobright.ai/jobs/info/68d2bbabf0d9af73038da759?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver Metropolitan Area | On Site | Oct 21 |
 | **[Cloudforce](https://www.gocloudforce.com)** | **[Junior Contracts Specialist](https://jobright.ai/jobs/info/67f5a111872fc715e680cb83?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | DC-Baltimore Area | Hybrid | Oct 20 |
 | **[BANK19](https://www.linkedin.com/company/108128111)** | **[PCCD Reviewer](https://jobright.ai/jobs/info/68bed8405c5d5f14f46d17ab?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO | On Site | Oct 18 |
@@ -113,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Esri](https://www.esri.com)** | **[Contracts Coordinator](https://jobright.ai/jobs/info/68cd1c14e23def7af55b5910?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Redlands, CA | On Site | Oct 11 |
 | **[Fenwick & West](http://fenwick.com)** | **[Junior and Mid-Level Patent Litigation Associate](https://jobright.ai/jobs/info/66971ac4c1bf811b23c8cfbb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 11 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[Intellectual Property Analyst](https://jobright.ai/jobs/info/68b0b5b613563e782a9f8b82?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 10 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Associate Claims Examiner](https://jobright.ai/jobs/info/68cc3e3716d00d2beeb1c3dd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Morristown, NJ | Hybrid | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
