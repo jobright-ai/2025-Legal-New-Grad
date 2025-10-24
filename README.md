@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Giant Food](https://giantfood.com)** | **[FT Associate Asset Protection - Security - 0760](https://jobright.ai/jobs/info/68ccd183b274cd205ab4f8b1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alexandria, VA | On Site | Oct 22 |
+| **[Manning Kass](https://www.manningllp.com)** | **[General Liability Associate](https://jobright.ai/jobs/info/68d714af45853d0e39cccc35?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Costa Mesa, CA | Hybrid | Oct 24 |
+| **[Giant Food](https://giantfood.com)** | **[FT Associate Asset Protection - Security - 0319](https://jobright.ai/jobs/info/686cbda835584b65425c1fc3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Rockville, MD | On Site | Oct 22 |
+| ↳ | **[FT Associate Asset Protection - Security - 0760](https://jobright.ai/jobs/info/68ccd183b274cd205ab4f8b1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alexandria, VA | On Site | Oct 22 |
 | **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Coordinator](https://jobright.ai/jobs/info/68c113948e65e77df55c73af?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 22 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Contracts Analyst](https://jobright.ai/jobs/info/68d2bbabf0d9af73038da759?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver Metropolitan Area | On Site | Oct 21 |
 | **[Cloudforce](https://www.gocloudforce.com)** | **[Junior Contracts Specialist](https://jobright.ai/jobs/info/67f5a111872fc715e680cb83?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | DC-Baltimore Area | Hybrid | Oct 20 |
