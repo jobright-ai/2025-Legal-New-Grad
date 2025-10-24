@@ -115,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Ormco](http://www.ormco.com)** | **[Regulatory Affairs Associate](https://jobright.ai/jobs/info/68940032a9199876488e1b04?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Brea, CA | On Site | Oct 11 |
 | **[Esri](https://www.esri.com)** | **[Contracts Coordinator](https://jobright.ai/jobs/info/68cd1c14e23def7af55b5910?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Redlands, CA | On Site | Oct 11 |
 | **[Fenwick & West](http://fenwick.com)** | **[Junior and Mid-Level Patent Litigation Associate](https://jobright.ai/jobs/info/66971ac4c1bf811b23c8cfbb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 11 |
-| **[Take-Two Interactive](http://www.take2games.com)** | **[Intellectual Property Analyst](https://jobright.ai/jobs/info/68b0b5b613563e782a9f8b82?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
