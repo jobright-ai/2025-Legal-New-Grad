@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Giant Food](https://giantfood.com)** | **[FT Associate Asset Protection - Security - 0123](https://jobright.ai/jobs/info/686cbd3d35584b65425b22f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Camp Springs, MD | On Site | Oct 25 |
 | **[Manning Kass](https://www.manningllp.com)** | **[General Liability Associate](https://jobright.ai/jobs/info/68d714af45853d0e39cccc35?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Costa Mesa, CA | Hybrid | Oct 24 |
 | **[Carrington Holding Company, LLC](http://carringtonhc.com/)** | **[Foreclosure Specialist, I](https://jobright.ai/jobs/info/68a623ecb6a3617d7fa75acb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Anaheim, CA | On Site | Oct 24 |
 | **[Giant Food](https://giantfood.com)** | **[FT Associate Asset Protection - Security - 0319](https://jobright.ai/jobs/info/686cbda835584b65425c1fc3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Rockville, MD | On Site | Oct 22 |
