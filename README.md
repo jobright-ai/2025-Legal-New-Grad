@@ -111,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Jacoby & Meyers Accident & Injury Lawyers](https://www.jacobyandmeyers.com)** | **[Pre-Litigation Associate Attorney - Remote](https://jobright.ai/jobs/info/67a061e7d0a6b0a426b4b3ac?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Oct 12 |
 | **[Fenwick & West](http://fenwick.com)** | **[Junior and Mid-Level Patent Litigation Associate](https://jobright.ai/jobs/info/67566ee7847473f909bc0dd8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 12 |
 | **[Pampered Chef](https://www.pamperedchef.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cdc0b1e23def7af55bec87?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Addison, IL | Hybrid | Oct 11 |
-| **[Ormco](http://www.ormco.com)** | **[Regulatory Affairs Associate](https://jobright.ai/jobs/info/68940032a9199876488e1b04?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Brea, CA | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
