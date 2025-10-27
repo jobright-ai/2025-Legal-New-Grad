@@ -102,6 +102,4 @@ For a complete list, click the following sortable link below:
 | **[South Carolina Legal Services](https://www.sclegal.org)** | **[Attorney](https://jobright.ai/jobs/info/68cc528b128dc347fd922994?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Conway, SC | On Site | Oct 13 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Insurance Recovery Associate Attorney - Junior to Midlevel](https://jobright.ai/jobs/info/66969a716df5fce96b1b6838?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 13 |
 | **[Segal McCambridge](https://www.segalmccambridge.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cf1241fb49c96ca6ea59d6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | NYC Metro Area | Hybrid | Oct 13 |
-| **[Morrison Foerster](http://www.mofo.com)** | **[Entry Level National Security Paralegal](https://jobright.ai/jobs/info/68b66363bc187f64e1be99ea?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 12 |
-| **[SHEIN](https://careers.shein.com/)** | **[Paralegal, US Legal-LA, US](https://jobright.ai/jobs/info/68ca9fc0efdec76df36b4b1d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
