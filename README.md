@@ -100,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Strategic Legal Practices, APC](https://www.slpattorney.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cc7fd17342c7623ae65e76?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | LA Metro Area | On Site | Oct 13 |
 | **[Mayer Brown](http://www.mayerbrown.com/)** | **[Paralegal](https://jobright.ai/jobs/info/688a8d259f961617fe21c887?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 13 |
 | **[South Carolina Legal Services](https://www.sclegal.org)** | **[Attorney](https://jobright.ai/jobs/info/68cc528b128dc347fd922994?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Conway, SC | On Site | Oct 13 |
-| **[Perkins Coie](http://www.perkinscoie.com)** | **[Insurance Recovery Associate Attorney - Junior to Midlevel](https://jobright.ai/jobs/info/66969a716df5fce96b1b6838?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
