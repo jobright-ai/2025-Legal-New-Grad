@@ -96,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[ONEOK](http://www.oneok.com)** | **[Contract Analyst II](https://jobright.ai/jobs/info/68d4ed7b2ed36439e51e2eff?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tulsa, OK | On Site | Oct 14 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[Insurance Recovery Associate Attorney - Junior to Midlevel](https://jobright.ai/jobs/info/6696a6d44868e9a2bb35e24b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 14 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Associate Claims Representative, Field -NJ](https://jobright.ai/jobs/info/68cfdcf9846f0b04af6857e7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Woodbridge, NJ | On Site | Oct 14 |
-| **[Strategic Legal Practices, APC](https://www.slpattorney.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cc7fd17342c7623ae65e76?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | LA Metro Area | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
