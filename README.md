@@ -98,6 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Allstate](http://www.allstate.com)** | **[Early Career Trial Attorney (Remote - Orlando, FL)](https://jobright.ai/jobs/info/68d1abf9a54edb3bf3e14c51?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami-FTL Area | Remote | Oct 14 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Associate Claims Representative, Field -NJ](https://jobright.ai/jobs/info/68cfdcf9846f0b04af6857e7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Woodbridge, NJ | On Site | Oct 14 |
 | **[Strategic Legal Practices, APC](https://www.slpattorney.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68cc7fd17342c7623ae65e76?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | LA Metro Area | On Site | Oct 13 |
-| **[Mayer Brown](http://www.mayerbrown.com/)** | **[Paralegal](https://jobright.ai/jobs/info/688a8d259f961617fe21c887?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 13 |
-| **[South Carolina Legal Services](https://www.sclegal.org)** | **[Attorney](https://jobright.ai/jobs/info/68cc528b128dc347fd922994?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Conway, SC | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
