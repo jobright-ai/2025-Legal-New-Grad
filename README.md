@@ -87,6 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Prudential Financial](http://www.prudential.com)** | **[Associate, Model Risk](https://jobright.ai/jobs/info/68cd5ba61ad6b16f028987b8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ | Hybrid | Oct 15 |
 | **[Clyde & Co](https://www.clydeco.com)** | **[Paralegal - Trial & Defense](https://jobright.ai/jobs/info/68d203db8c62e63bc7fd22f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Oct 14 |
 | **[Morgan, Lewis & Bockius LLP](http://www.morganlewis.com/)** | **[Practice Group Support Assistant](https://jobright.ai/jobs/info/68d1a87a8c62e63bc7fce171?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Oct 14 |
-| **[Perkins Coie](http://www.perkinscoie.com)** | **[Insurance Recovery Associate Attorney - Junior to Midlevel](https://jobright.ai/jobs/info/6696b0356ff37b6a8706eb3f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Claims Attorney](https://jobright.ai/jobs/info/68b2a71df4e41a61efd875a4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
