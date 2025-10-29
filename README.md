@@ -209,5 +209,4 @@ For a complete list, click the following sortable link below:
 | **[Cruser, Mitchell, Novitz, Sanchez, Gaston & Zimet, LLP](http://cmlawfirm.com)** | **[Litigation Associate Attorney](https://jobright.ai/jobs/info/68dad60507c157682e56e017?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | LA Metro Area | Hybrid | Sep 29 |
 | **[DiLucci CPA Firm](https://dilucci.com/)** | **[Tax Paralegal](https://jobright.ai/jobs/info/68dad13b0b832179ca4b1279?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Coppell, TX | On Site | Sep 29 |
 | **[Penn State University](http://psu.edu)** | **[Staff Attorney – Entrepreneur Assistance Clinic, Penn State Dickinson Law, University Park](https://jobright.ai/jobs/info/68dab9c407c157682e56cd7e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | University Park, PA | On Site | Sep 29 |
-| **[United States Marine Corps](http://www.marines.mil/)** | **[Law/Attorney](https://jobright.ai/jobs/info/68daac5007c157682e56c40e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boston, MA | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
