@@ -138,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d181a1cece431f8b584802?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kentucky, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129a3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129d6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX | Hybrid | Oct 06 |
-| ↳ | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18b65fa731f61692e044b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | South Dakota, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129a9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18669fa731f61692dfe1e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Mississippi, United States | Remote | Oct 06 |
@@ -151,6 +150,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18bdffa731f61692e0516?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Illinois, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | McAllen, TX | On Site | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18fe3cece431f8b5854f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hawaii, United States | Remote | Oct 06 |
+| ↳ | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d1819f8c62e63bc7fcc0c8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Oregon, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd1501299d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | On Site | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129d4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | McAllen, TX | On Site | Oct 06 |
@@ -178,8 +178,4 @@ For a complete list, click the following sortable link below:
 | **[CoventBridge Group](http://www.coventbridge.com/)** | **[Claims Investigator - Full Time](https://jobright.ai/jobs/info/68c8c193983e6768bc5513f8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Jose, CA | Hybrid | Oct 01 |
 | **[Foley & Lardner LLP](http://www.foley.com)** | **[Intellectual Property Project Assistant](https://jobright.ai/jobs/info/68d8b209ed09d95201eb61b0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | SLC Metro Area | On Site | Oct 01 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Paralegal - Investment Funds](https://jobright.ai/jobs/info/68c994b6f9c6ff7aedf1b2ce?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco Bay Area | Hybrid | Sep 29 |
-| **[COURTS SINGAPORE](https://www.courts.com.sg/)** | **[Case Administrator](https://jobright.ai/jobs/info/68db698034f2c406da6d7c47?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fayetteville, AR | On Site | Sep 29 |
-| **[Vertical Screen, Inc.](http://www.verticalscreen.com/)** | **[I-9 Compliance Specialist (Entry Level) Mid Shift](https://jobright.ai/jobs/info/68db411f34f2c406da6d5c25?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Warminster, PA | Hybrid | Sep 29 |
-| **[Laurens County](https://laurenscounty.us)** | **[Judicial Specialist](https://jobright.ai/jobs/info/68db41029f13662d20e48fe6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Laurens, SC | On Site | Sep 29 |
-| **[Legal Aid Chicago](https://www.legalaidchicago.org/)** | **[Paralegal - Public Benefits (HIV + Legal Project)](https://jobright.ai/jobs/info/68db3b7ee19b9e63ba209781?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Hybrid | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
