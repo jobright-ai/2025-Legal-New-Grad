@@ -166,5 +166,4 @@ For a complete list, click the following sortable link below:
 | **[Labaton Keller Sucharow LLP](https://www.labaton.com)** | **[Intake Specialist ADR](https://jobright.ai/jobs/info/686fe89101cc0956e7e7dd98?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Hybrid | Oct 01 |
 | **[Foley & Lardner LLP](http://www.foley.com)** | **[Intellectual Property Project Assistant](https://jobright.ai/jobs/info/68d74fedf9dbe42bf62c1898?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Detroit, MI | Hybrid | Oct 01 |
 | **[CoventBridge Group](http://www.coventbridge.com/)** | **[Claims Investigator - Full Time](https://jobright.ai/jobs/info/68c8c193983e6768bc5513f8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Jose, CA | Hybrid | Oct 01 |
-| **[Foley & Lardner LLP](http://www.foley.com)** | **[Intellectual Property Project Assistant](https://jobright.ai/jobs/info/68d8b209ed09d95201eb61b0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | SLC Metro Area | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
