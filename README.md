@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FT Associate Asset Protection - Security - 0760](https://jobright.ai/jobs/info/68ccd183b274cd205ab4f8b1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alexandria, VA | On Site | Oct 22 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Contracts Analyst](https://jobright.ai/jobs/info/68d2bbabf0d9af73038da759?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver Metropolitan Area | On Site | Oct 21 |
 | **[Cloudforce](https://www.gocloudforce.com)** | **[Junior Contracts Specialist](https://jobright.ai/jobs/info/67f5a111872fc715e680cb83?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | DC-Baltimore Area | Hybrid | Oct 20 |
-| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Property Claims Field Trainee](https://jobright.ai/jobs/info/68cc67337342c7623ae64504?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Simi Valley, CA | Hybrid | Oct 18 |
 | **[Netflix](https://www.netflix.com)** | **[Manager, Data Protection](https://jobright.ai/jobs/info/68cba97e9e3a822f5d249eaf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Oct 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Regulatory Compliance Consultant Entry Level Staff](https://jobright.ai/jobs/info/68d5944c39247e3c807ed25d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | On Site | Oct 17 |
 | **[KLDiscovery](https://www.kldiscovery.com/)** | **[Document Reviewer](https://jobright.ai/jobs/info/68643f5353eb2f5985836ce2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Florida, United States | Remote | Oct 17 |
@@ -121,6 +120,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d181a1cece431f8b584802?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kentucky, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129a3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129d6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX | Hybrid | Oct 06 |
+| ↳ | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18b65fa731f61692e044b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | South Dakota, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129a9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18669fa731f61692dfe1e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Mississippi, United States | Remote | Oct 06 |
@@ -133,7 +133,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18bdffa731f61692e0516?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Illinois, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | McAllen, TX | On Site | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d18fe3cece431f8b5854f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hawaii, United States | Remote | Oct 06 |
-| ↳ | **[Attorney](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8c9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | Hybrid | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/68d1819f8c62e63bc7fcc0c8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Oregon, United States | Remote | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd1501299d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | On Site | Oct 06 |
 | ↳ | **[Attorney](https://jobright.ai/jobs/info/684096afb909b7bd150129d4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | McAllen, TX | On Site | Oct 06 |
@@ -152,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Prime Brokerage Compliance Professional](https://jobright.ai/jobs/info/68bb86d15f3832749186fd64?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Oct 03 |
 | **[Greater New York Insurance Companies](https://www.gny.com/)** | **[Property Claims Examiner](https://jobright.ai/jobs/info/68d477ce77769e778f509392?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Remote | Oct 02 |
 | **[Travelers](https://www.travelers.com)** | **[Associate Claim Counsel](https://jobright.ai/jobs/info/68ce55e9dbd9fb154eddea62?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Federal Way, WA | Hybrid | Oct 02 |
-| **[Frost Brown Todd](http://www.frostbrowntodd.com)** | **[Product, Tort & Insurance Litigation Associate Attorney](https://jobright.ai/jobs/info/68b87ef0ea901c0d269f6b15?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Louisville Metro | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
